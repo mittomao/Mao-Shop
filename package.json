@@ -1,0 +1,15 @@
+{
+  "name": "corporate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Corporate Site built with Treecraft CMS",
+  "scripts": {
+    "dev": "node core/bin/treecraft.js dev",
+    "start": "node core/bin/treecraft.js start",
+    "sync:export": "node core/bin/treecraft.js sync:export",
+    "sync:import": "node core/bin/treecraft.js sync:import",
+    "backup": "node core/bin/treecraft.js backup",
+    "restore": "node core/bin/treecraft.js restore",
+    "tree:compare": "node core/bin/treecraft.js tree:compare"
+  }
+}

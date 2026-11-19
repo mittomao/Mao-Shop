@@ -1,0 +1,4 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/mittomao/Admin-CMS.git
+	branch = feature/separating-core-site

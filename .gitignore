@@ -1,0 +1,8 @@
+node_modules/
+core/
+site/.env*
+!site/.env.example
+site/backups/
+site/logs/
+.DS_Store
+Thumbs.db
