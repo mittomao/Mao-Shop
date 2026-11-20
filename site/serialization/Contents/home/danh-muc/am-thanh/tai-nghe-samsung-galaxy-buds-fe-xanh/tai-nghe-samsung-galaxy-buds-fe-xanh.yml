@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7b09
+name: tai-nghe-samsung-galaxy-buds-fe-xanh
+displayName: Tai nghe Samsung Galaxy Buds FE Xanh
+path: /root/content/home/danh-muc/am-thanh/tai-nghe-samsung-galaxy-buds-fe-xanh
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727ee
+parentPath: /root/content/home/danh-muc/am-thanh
+sortOrder: 2000
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chơi game","Làm việc"],"loai":"Tai nghe không dây","tinhnang":["Chống nước","Kết nối đa điểm"]}'
+          Brand: Samsung
+          CategoryId: audio
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Tím","color":"#a78bfa"},{"name":"Nâu","color":"#78350f"}]'
+          Description: |-
+            Tai nghe Samsung Galaxy Buds FE Xanh là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"earbuds","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"earbuds","color":"#e5e7eb","label":"Bạc"},{"id":"color-Cam vũ trụ","kind":"earbuds","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Tím","kind":"earbuds","color":"#a78bfa","label":"Tím"},{"id":"color-Nâu","kind":"earbuds","color":"#78350f","label":"Nâu"}]'
+          Installment0: false
+          IsNew: false
+          Kind: earbuds
+          MemberDiscount: '22000'
+          MetaDescription: Mua ngay Tai nghe Samsung Galaxy Buds FE Xanh giá chỉ 2.190.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '2190000'
+          PageTitle: Tai nghe Samsung Galaxy Buds FE Xanh chính hãng, giá tốt | MaoShop
+          Popularity: '77'
+          Price: '2190000'
+          ProductName: Tai nghe Samsung Galaxy Buds FE Xanh
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '4.9'
+          ReviewCount: '77'
+          Slug: tai-nghe-samsung-galaxy-buds-fe-xanh
+          SpecsJson: '[{"label":"Loại","value":"Tai nghe không dây"},{"label":"Chống ồn","value":"Chống ồn chủ động (ANC)"},{"label":"Thời lượng pin","value":"Lên đến 30 giờ (kèm hộp sạc)"},{"label":"Kết nối","value":"Bluetooth 5.3"},{"label":"Chống nước","value":"IP54"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

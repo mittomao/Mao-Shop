@@ -1,0 +1,35 @@
+<%
+  const title = field('Title', 'Tin tức công nghệ mới nhất');
+  const newsList = [
+    { title: 'Đánh giá chi tiết iPhone 16 Pro Max: Đỉnh cao camera và thời lượng pin', date: '19/11/2026', tag: 'Đánh giá' },
+    { title: 'Galaxy AI thế hệ mới trên S25 Ultra có gì đột phá so với tiền nhiệm?', date: '18/11/2026', tag: 'Tin đồn' },
+    { title: 'Top 5 laptop gaming đáng mua nhất dịp tựu trường 2026', date: '17/11/2026', tag: 'Tư vấn' },
+    { title: 'Apple Watch Series 11 ra mắt: Cảm biến sức khỏe đột phá', date: '16/11/2026', tag: 'Sản phẩm mới' },
+  ];
+%>
+<section class="container mx-auto px-4 sm:px-6 lg:px-8 mt-10">
+  <div class="flex items-center justify-between mb-4 border-b border-slate-200 pb-2">
+    <h2 class="text-xl font-bold text-slate-900"><%= title %></h2>
+    <a href="#news" class="text-xs font-semibold text-red-600 hover:text-red-700">Xem tất cả bài viết →</a>
+  </div>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+    <% newsList.forEach(n => { %>
+      <article class="bg-white rounded-xl overflow-hidden shadow-sm border border-slate-100 hover:shadow-md transition-shadow flex flex-col">
+        <div class="h-36 bg-gradient-to-br from-slate-800 to-slate-900 flex items-center justify-center text-white text-3xl">
+          📰
+        </div>
+        <div class="p-4 flex-1 flex flex-col justify-between">
+          <div>
+            <span class="inline-block px-2 py-0.5 rounded text-[10px] font-bold bg-red-50 text-red-600 mb-2">
+              <%= n.tag %>
+            </span>
+            <h3 class="font-semibold text-sm text-slate-800 line-clamp-2 hover:text-red-600 transition-colors">
+              <a href="#news"><%= n.title %></a>
+            </h3>
+          </div>
+          <span class="text-[11px] text-slate-400 mt-4 block">📅 <%= n.date %></span>
+        </div>
+      </article>
+    <% }) %>
+  </div>
+</section>

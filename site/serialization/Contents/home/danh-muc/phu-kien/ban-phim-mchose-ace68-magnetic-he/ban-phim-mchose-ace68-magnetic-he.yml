@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf787f
+name: ban-phim-mchose-ace68-magnetic-he
+displayName: Bàn phím Mchose Ace68 Magnetic HE
+path: /root/content/home/danh-muc/phu-kien/ban-phim-mchose-ace68-magnetic-he
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 700
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chuột, bàn phím"],"tinhnang":["RGB"]}'
+          Brand: Mchose
+          CategoryId: accessory
+          Color: '#60a5fa'
+          ColorsJson: '[{"name":"Xanh dương","color":"#60a5fa"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Bàn phím Mchose Ace68 Magnetic HE là sản phẩm Mchose chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"keyboard","color":"#60a5fa","label":"Tính năng nổi bật"},{"id":"color-Xanh dương","kind":"keyboard","color":"#60a5fa","label":"Xanh dương"},{"id":"color-Xanh lá","kind":"keyboard","color":"#22c55e","label":"Xanh lá"},{"id":"color-Hồng","kind":"keyboard","color":"#ec4899","label":"Hồng"}]'
+          Installment0: false
+          IsNew: true
+          Kind: keyboard
+          MemberDiscount: '15000'
+          MetaDescription: Mua ngay Bàn phím Mchose Ace68 Magnetic HE giá chỉ 1.490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '1890000'
+          PageTitle: Bàn phím Mchose Ace68 Magnetic HE chính hãng, giá tốt | MaoShop
+          Popularity: '91'
+          Price: '1490000'
+          ProductName: Bàn phím Mchose Ace68 Magnetic HE
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '91'
+          Slug: ban-phim-mchose-ace68-magnetic-he
+          SpecsJson: '[{"label":"Thương hiệu","value":"Mchose"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Chuột, bàn phím
+          TagsJson: '["hot","new"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

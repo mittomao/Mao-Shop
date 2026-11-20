@@ -1,13 +1,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title><%= (fields && (fields.PageTitle || fields.HeroTitle || fields.Title)) || (item && (item.displayName || item.name)) || 'Treecraft Website' %></title>
+<title><%= (fields && (fields.PageTitle || fields.HeroTitle || fields.Title)) || (item && (item.displayName || item.name)) || 'MaoShop - Điện thoại, Laptop, Tivi chính hãng' %></title>
 <% if (fields && fields.MetaDescription) { %>
   <meta name="description" content="<%= fields.MetaDescription %>">
 <% } %>
-<link rel="canonical" href="<%= site.host ? 'http://' + site.host + (item && item.path ? item.path.replace(/^\/root\/content\/Home/i, '') || '/' : '/') : '/' %>">
+<link rel="canonical" href="<%= site.host ? 'http://' + site.host + (item && item.path ? item.path.replace(/^\/root\/content\/Home/i, '').replace(/^\/danh-muc(?=\/|$)/i, '') || '/' : '/') : '/' %>">
 
 <!-- Open Graph SEO -->
-<meta property="og:title" content="<%= (fields && (fields.PageTitle || fields.HeroTitle || fields.Title)) || (item && (item.displayName || item.name)) || 'Treecraft Website' %>">
+<meta property="og:title" content="<%= (fields && (fields.PageTitle || fields.HeroTitle || fields.Title)) || (item && (item.displayName || item.name)) || 'MaoShop - Điện thoại, Laptop, Tivi chính hãng' %>">
 <% if (fields && fields.MetaDescription) { %>
   <meta property="og:description" content="<%= fields.MetaDescription %>">
 <% } %>
@@ -19,8 +19,24 @@
 <!-- Google Font: Inter -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-<!-- Modern Tailwind CSS for Site -->
-<link rel="stylesheet" href="/site/css/tailwind.css">
-
+<!-- React Tailwind CSS Bundle (Manifest-driven) -->
+<%
+  let reactCssFiles = [];
+  try {
+    const fs = globalThis.process.getBuiltinModule('fs');
+    const path = globalThis.process.getBuiltinModule('path');
+    const manifestPath = path.resolve(process.cwd(), 'site/public/react/manifest.json');
+    if (fs.existsSync(manifestPath)) {
+      const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+      const entry = manifest['src/main.tsx'] || Object.values(manifest).find(v => v.isEntry);
+      if (entry && entry.css) {
+        reactCssFiles = entry.css;
+      }
+    }
+  } catch (err) {}
+%>
+<% reactCssFiles.forEach(function(cssFile) { %>
+  <link rel="stylesheet" href="/react/<%= cssFile %>">
+<% }); %>

@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7979
+name: galaxy-tab-s10-wifi-64gb
+displayName: Galaxy Tab S10+ WiFi 64GB
+path: /root/content/home/danh-muc/may-tinh-bang/galaxy-tab-s10-wifi-64gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727da
+parentPath: /root/content/home/danh-muc/may-tinh-bang
+sortOrder: 1200
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Học tập","Làm việc"],"ram":"8GB","bonho":"64GB","manhinh":"11 inch","ketnoi":"WiFi"}'
+          Brand: Samsung
+          CategoryId: tablet
+          Color: '#be123c'
+          ColorsJson: '[{"name":"Đỏ Burgundy","color":"#be123c"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Galaxy Tab S10+ WiFi 64GB là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tablet","color":"#be123c","label":"Tính năng nổi bật"},{"id":"color-Đỏ Burgundy","kind":"tablet","color":"#be123c","label":"Đỏ Burgundy"},{"id":"color-Nâu","kind":"tablet","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"tablet","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Hồng","kind":"tablet","color":"#ec4899","label":"Hồng"},{"id":"extra-0","kind":"keyboard","color":"#be123c","label":"Bàn phím"}]'
+          Installment0: true
+          IsNew: true
+          Kind: tablet
+          MemberDiscount: '100000'
+          MetaDescription: Mua ngay Galaxy Tab S10+ WiFi 64GB giá chỉ 9.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '9990000'
+          PageTitle: Galaxy Tab S10+ WiFi 64GB chính hãng, giá tốt | MaoShop
+          Popularity: '65'
+          Price: '9990000'
+          ProductName: Galaxy Tab S10+ WiFi 64GB
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '65'
+          Slug: galaxy-tab-s10-wifi-64gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"11 inch"},{"label":"Công nghệ màn hình","value":"IPS LCD / OLED"},{"label":"Chipset","value":"Chip hiệu năng cao"},{"label":"Bộ nhớ trong","value":"64GB"},{"label":"Camera sau","value":"12 MP"},{"label":"Camera trước","value":"12 MP góc siêu rộng"},{"label":"Pin","value":"Lên đến 10 giờ sử dụng"},{"label":"Kết nối","value":"Wi-Fi 6E, Bluetooth 5.3, USB-C"},{"label":"Hệ điều hành","value":"Android 16"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,52 @@
+_id: 6afea77e15e491e32ddf7cbc
+name: camera-an-ninh-cruiser-se-4mp-imou
+displayName: Camera an ninh Cruiser SE 4MP Imou
+path: /root/content/home/danh-muc/phu-kien/camera-an-ninh-cruiser-se-4mp-imou
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 2870
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Camera"],"tinhnang":["Chống nước","Không dây"]}'
+          Brand: Imou
+          CategoryId: accessory
+          Color: '#7c3aed'
+          ColorsJson: '[{"name":"Tím","color":"#7c3aed"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Camera an ninh Cruiser SE 4MP Imou là sản phẩm Imou chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"camera","color":"#7c3aed","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"camera","color":"#7c3aed","label":"Tím"},{"id":"color-Nâu","kind":"camera","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"camera","color":"#93c5fd","label":"Xanh dương"}]'
+          Installment0: false
+          IsNew: true
+          Kind: camera
+          MemberDiscount: '10000'
+          MetaDescription: Mua ngay Camera an ninh Cruiser SE 4MP Imou giá chỉ 980.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '980000'
+          PageTitle: Camera an ninh Cruiser SE 4MP Imou chính hãng, giá tốt | MaoShop
+          Popularity: '69'
+          Price: '980000'
+          ProductName: Camera an ninh Cruiser SE 4MP Imou
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.8'
+          ReviewCount: '69'
+          Slug: camera-an-ninh-cruiser-se-4mp-imou
+          SpecsJson: '[{"label":"Thương hiệu","value":"Imou"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Camera
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

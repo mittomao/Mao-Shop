@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7929
+name: idea-tab-pro-wifi-256gb
+displayName: Idea Tab Pro WiFi 256GB
+path: /root/content/home/danh-muc/may-tinh-bang/idea-tab-pro-wifi-256gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727da
+parentPath: /root/content/home/danh-muc/may-tinh-bang
+sortOrder: 1040
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Làm việc"],"ram":"6GB","bonho":"256GB","manhinh":"11 inch","ketnoi":"WiFi"}'
+          Brand: Lenovo
+          CategoryId: tablet
+          Color: '#be123c'
+          ColorsJson: '[{"name":"Đỏ Burgundy","color":"#be123c"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Tím","color":"#a78bfa"},{"name":"Nâu","color":"#78350f"}]'
+          Description: |-
+            Idea Tab Pro WiFi 256GB là sản phẩm Lenovo chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"tablet","color":"#be123c","label":"Tính năng nổi bật"},{"id":"color-Đỏ Burgundy","kind":"tablet","color":"#be123c","label":"Đỏ Burgundy"},{"id":"color-Xanh lá","kind":"tablet","color":"#22c55e","label":"Xanh lá"},{"id":"color-Tím","kind":"tablet","color":"#a78bfa","label":"Tím"},{"id":"color-Nâu","kind":"tablet","color":"#78350f","label":"Nâu"},{"id":"extra-0","kind":"keyboard","color":"#be123c","label":"Bàn phím"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tablet
+          MemberDiscount: '94000'
+          MetaDescription: Mua ngay Idea Tab Pro WiFi 256GB giá chỉ 9.430.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '11100000'
+          PageTitle: Idea Tab Pro WiFi 256GB chính hãng, giá tốt | MaoShop
+          Popularity: '48'
+          Price: '9430000'
+          ProductName: Idea Tab Pro WiFi 256GB
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '48'
+          Slug: idea-tab-pro-wifi-256gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"11 inch"},{"label":"Công nghệ màn hình","value":"IPS LCD / OLED"},{"label":"Chipset","value":"Chip hiệu năng cao"},{"label":"Bộ nhớ trong","value":"256GB"},{"label":"Camera sau","value":"12 MP"},{"label":"Camera trước","value":"12 MP góc siêu rộng"},{"label":"Pin","value":"Lên đến 10 giờ sử dụng"},{"label":"Kết nối","value":"Wi-Fi 6E, Bluetooth 5.3, USB-C"},{"label":"Hệ điều hành","value":"Android 16"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

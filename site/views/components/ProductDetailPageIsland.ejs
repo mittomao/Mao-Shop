@@ -1,0 +1,72 @@
+<%
+  const service = typeof catalogService !== 'undefined' ? catalogService : (typeof siteRequire !== 'undefined' ? siteRequire('./services/catalogService') : null);
+  const prodSlug = field('Slug', 'iphone-17-pro-max-256gb');
+  const prodData = service ? await service.getProductData(prodSlug) : null;
+
+  const product = prodData?.product || {
+    id: prodSlug,
+    slug: prodSlug,
+    name: field('ProductName', field('Title', 'Chi tiết sản phẩm')),
+    brand: field('Brand', 'MaoShop'),
+    categoryId: field('CategoryId', 'phone'),
+    price: Number(field('Price', 0)),
+    originalPrice: Number(field('OriginalPrice', 0)),
+    rating: Number(field('Rating', 5)),
+    promoText: field('PromoText', ''),
+    subCategory: field('SubCategory', ''),
+    warranty: field('Warranty', '12 tháng chính hãng'),
+    description: field('Description', ''),
+  };
+
+  const detail = prodData?.detail || null;
+  const relatedProducts = prodData?.relatedProducts || [];
+
+  const productProps = {
+    slug: prodSlug,
+    product,
+    detail,
+    relatedProducts,
+  };
+  const jsonProps = JSON.stringify(productProps).replace(/"/g, '&quot;');
+%>
+<div class="site-product-detail-page" data-react="ProductDetailPage" data-props="<%= jsonProps %>">
+  <!-- Schema.org Product Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": <%- JSON.stringify(product.name) %>,
+    "brand": {
+      "@type": "Brand",
+      "name": <%- JSON.stringify(product.brand) %>
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "VND",
+      "price": <%- JSON.stringify(String(product.price)) %>,
+      "availability": "https://schema.org/InStock"
+    }
+  }
+  </script>
+
+  <!-- Fallback for No-JS and Web Crawlers -->
+  <noscript>
+    <div class="container mx-auto px-4 py-8">
+      <nav class="text-sm text-slate-500 mb-4">
+        <a href="/" class="hover:underline">Trang chủ</a> &gt; 
+        <a href="/<%= product.categoryId === 'laptop' ? 'laptop' : (product.categoryId === 'tablet' ? 'may-tinh-bang' : (product.categoryId === 'watch' ? 'dong-ho' : 'dien-thoai')) %>" class="hover:underline"><%= product.brand || 'Sản phẩm' %></a> &gt; 
+        <span class="text-slate-800 font-semibold"><%= product.name %></span>
+      </nav>
+      <h1 class="text-3xl font-black mb-2 text-slate-900"><%= product.name %></h1>
+      <p class="text-xl font-bold text-red-600 mb-4"><%= product.price ? Number(product.price).toLocaleString('vi-VN') + ' đ' : '' %></p>
+      <% if (product.promoText) { %>
+        <div class="bg-red-50 text-red-700 p-3 rounded-lg mb-4 text-sm font-medium">
+          🎁 <%= product.promoText %>
+        </div>
+      <% } %>
+      <div class="prose max-w-none text-slate-700 mt-6">
+        <%- product.description || field('Description', '<p>Sản phẩm chính hãng với chế độ bảo hành 12 tháng.</p>') %>
+      </div>
+    </div>
+  </noscript>
+</div>

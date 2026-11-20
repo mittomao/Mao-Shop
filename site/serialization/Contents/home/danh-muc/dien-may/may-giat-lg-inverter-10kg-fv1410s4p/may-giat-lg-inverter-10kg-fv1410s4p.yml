@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7843
+name: may-giat-lg-inverter-10kg-fv1410s4p
+displayName: Máy giặt LG Inverter 10kg FV1410S4P
+path: /root/content/home/danh-muc/dien-may/may-giat-lg-inverter-10kg-fv1410s4p
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f8
+parentPath: /root/content/home/danh-muc/dien-may
+sortOrder: 580
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Máy giặt"],"tinhnang":["Inverter tiết kiệm điện"]}'
+          Brand: LG
+          CategoryId: appliance
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Máy giặt LG Inverter 10kg FV1410S4P là sản phẩm LG chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"washer","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"washer","color":"#e5e7eb","label":"Bạc"},{"id":"color-Xanh dương","kind":"washer","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"washer","color":"#7f1d1d","label":"Đỏ Burgundy"}]'
+          Installment0: true
+          IsNew: false
+          Kind: washer
+          MemberDiscount: '90000'
+          MetaDescription: Mua ngay Máy giặt LG Inverter 10kg FV1410S4P giá chỉ 8.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '11990000'
+          PageTitle: Máy giặt LG Inverter 10kg FV1410S4P chính hãng, giá tốt | MaoShop
+          Popularity: '83'
+          Price: '8990000'
+          ProductName: Máy giặt LG Inverter 10kg FV1410S4P
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '83'
+          Slug: may-giat-lg-inverter-10kg-fv1410s4p
+          SpecsJson: '[{"label":"Thương hiệu","value":"LG"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Máy giặt
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7834
+name: tu-lanh-samsung-inverter-348-lit-rt35cg5544b1sv
+displayName: Tủ lạnh Samsung Inverter 348 lít RT35CG5544B1SV
+path: /root/content/home/danh-muc/dien-may/tu-lanh-samsung-inverter-348-lit-rt35cg5544b1sv
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f8
+parentPath: /root/content/home/danh-muc/dien-may
+sortOrder: 550
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Tủ lạnh"],"tinhnang":["Inverter tiết kiệm điện"]}'
+          Brand: Samsung
+          CategoryId: appliance
+          Color: '#9ca3af'
+          ColorsJson: '[{"name":"Tím","color":"#9ca3af"},{"name":"Vàng","color":"#f59e0b"},{"name":"Bạc","color":"#e5e7eb"}]'
+          Description: |-
+            Tủ lạnh Samsung Inverter 348 lít RT35CG5544B1SV là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"fridge","color":"#9ca3af","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"fridge","color":"#9ca3af","label":"Tím"},{"id":"color-Vàng","kind":"fridge","color":"#f59e0b","label":"Vàng"},{"id":"color-Bạc","kind":"fridge","color":"#e5e7eb","label":"Bạc"}]'
+          Installment0: true
+          IsNew: false
+          Kind: fridge
+          MemberDiscount: '95000'
+          MetaDescription: Mua ngay Tủ lạnh Samsung Inverter 348 lít RT35CG5544B1SV giá chỉ 9.490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '12490000'
+          PageTitle: Tủ lạnh Samsung Inverter 348 lít RT35CG5544B1SV chính hãng, giá tốt | MaoShop
+          Popularity: '86'
+          Price: '9490000'
+          ProductName: Tủ lạnh Samsung Inverter 348 lít RT35CG5544B1SV
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '86'
+          Slug: tu-lanh-samsung-inverter-348-lit-rt35cg5544b1sv
+          SpecsJson: '[{"label":"Thương hiệu","value":"Samsung"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Tủ lạnh
+          TagsJson: '["deal"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

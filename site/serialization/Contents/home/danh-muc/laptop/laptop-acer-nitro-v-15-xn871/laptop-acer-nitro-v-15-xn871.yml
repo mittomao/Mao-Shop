@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf79ce
+name: laptop-acer-nitro-v-15-xn871
+displayName: Laptop Acer Nitro V 15 XN871
+path: /root/content/home/danh-muc/laptop/laptop-acer-nitro-v-15-xn871
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 1370
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"cpu":"Intel Core i7","ram":"32GB","ocung":"1TB","gpu":"RTX 5060","manhinh":"15 - 16 inch","dophangiai":"Full HD","tinhnang":["Màn hình 144Hz","Bàn phím LED","Cảm ứng"],"ai":"Không có"}'
+          Brand: Acer
+          CategoryId: laptop
+          Color: '#1f2937'
+          ColorsJson: '[{"name":"Đen","color":"#1f2937"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Laptop Acer Nitro V 15 XN871 là sản phẩm Acer chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#1f2937","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"laptop","color":"#1f2937","label":"Đen"},{"id":"color-Xanh dương","kind":"laptop","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"laptop","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"extra-0","kind":"keyboard","color":"#1f2937","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#1f2937","label":"Phụ kiện"}]'
+          Installment0: true
+          IsNew: false
+          Kind: laptop
+          MemberDiscount: '354000'
+          MetaDescription: Mua ngay Laptop Acer Nitro V 15 XN871 giá chỉ 35.390.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '39720000'
+          PageTitle: Laptop Acer Nitro V 15 XN871 chính hãng, giá tốt | MaoShop
+          Popularity: '51'
+          Price: '35390000'
+          ProductName: Laptop Acer Nitro V 15 XN871
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '5'
+          ReviewCount: '51'
+          Slug: laptop-acer-nitro-v-15-xn871
+          SpecsJson: '[{"label":"CPU","value":"Intel Core i7"},{"label":"Card đồ họa","value":"RTX 5060"},{"label":"RAM","value":"32GB"},{"label":"Ổ cứng","value":"SSD 1TB"},{"label":"Kích thước màn hình","value":"15 - 16 inch"},{"label":"Độ phân giải","value":"Full HD"},{"label":"Công nghệ AI","value":"Không có"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"Windows 11 Home"}]'
+          SubCategory: Gaming
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

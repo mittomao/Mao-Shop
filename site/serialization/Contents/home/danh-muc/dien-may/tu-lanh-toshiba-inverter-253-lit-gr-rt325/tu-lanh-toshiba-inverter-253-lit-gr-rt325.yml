@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7c1c
+name: tu-lanh-toshiba-inverter-253-lit-gr-rt325
+displayName: Tủ lạnh Toshiba Inverter 253 lít GR-RT325
+path: /root/content/home/danh-muc/dien-may/tu-lanh-toshiba-inverter-253-lit-gr-rt325
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f8
+parentPath: /root/content/home/danh-muc/dien-may
+sortOrder: 2550
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Tủ lạnh"],"tinhnang":["Inverter tiết kiệm điện"]}'
+          Brand: Toshiba
+          CategoryId: appliance
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Xám titan","color":"#64748b"},{"name":"Đen","color":"#1f2937"}]'
+          Description: |-
+            Tủ lạnh Toshiba Inverter 253 lít GR-RT325 là sản phẩm Toshiba chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"fridge","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"fridge","color":"#e5e7eb","label":"Bạc"},{"id":"color-Xám titan","kind":"fridge","color":"#64748b","label":"Xám titan"},{"id":"color-Đen","kind":"fridge","color":"#1f2937","label":"Đen"}]'
+          Installment0: true
+          IsNew: true
+          Kind: fridge
+          MemberDiscount: '70000'
+          MetaDescription: Mua ngay Tủ lạnh Toshiba Inverter 253 lít GR-RT325 giá chỉ 6.980.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '8760000'
+          PageTitle: Tủ lạnh Toshiba Inverter 253 lít GR-RT325 chính hãng, giá tốt | MaoShop
+          Popularity: '80'
+          Price: '6980000'
+          ProductName: Tủ lạnh Toshiba Inverter 253 lít GR-RT325
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '80'
+          Slug: tu-lanh-toshiba-inverter-253-lit-gr-rt325
+          SpecsJson: '[{"label":"Thương hiệu","value":"Toshiba"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Tủ lạnh
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,15 +1,32 @@
 {
-  "name": "corporate",
+  "name": "maoshop-site",
   "version": "1.0.0",
   "private": true,
-  "description": "Corporate Site built with Treecraft CMS",
+  "description": "MaoShop built with Treecraft CMS and React Island",
   "scripts": {
-    "dev": "node core/bin/treecraft.js dev",
-    "start": "node core/bin/treecraft.js start",
+    "dev": "node site/scripts/dev.js",
+    "build:react": "vite build --config site/react/vite.config.ts",
+    "start": "node site/scripts/start.js",
+    "test": "node site/scripts/test-react-site.js",
     "sync:export": "node core/bin/treecraft.js sync:export",
     "sync:import": "node core/bin/treecraft.js sync:import",
     "backup": "node core/bin/treecraft.js backup",
     "restore": "node core/bin/treecraft.js restore",
     "tree:compare": "node core/bin/treecraft.js tree:compare"
+  },
+  "dependencies": {
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.4",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.4.1",
+    "tailwindcss": "^4.1.4",
+    "typescript": "~5.7.3",
+    "vite": "^6.3.2"
   }
 }

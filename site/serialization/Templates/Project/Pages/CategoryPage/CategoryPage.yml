@@ -1,0 +1,426 @@
+_id: 6afe97d6fbfd9197e4972797
+name: CategoryPage
+displayName: Category Page Template
+path: /root/templates/Project/Pages/CategoryPage
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f860e
+parentPath: /root/templates/Project/Pages
+sortOrder: 110
+icon: ti ti-layout-grid
+description: Template cho trang Danh mục sản phẩm (MaoShop)
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afea7cf729852702eaf8805
+    name: General
+    sortOrder: 100
+    fields:
+      - id: 6afea7cf729852702eaf8806
+        name: PageTitle
+        title: Tiêu đề trang (SEO)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Danh mục sản phẩm | MaoShop
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8807
+        name: MetaDescription
+        title: Mô tả SEO
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8808
+        name: Slug
+        title: Mã định danh (Slug)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: dien-thoai
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8809
+        name: CategoryId
+        title: Mã ngành hàng (ID)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: phone
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+  - id: 6afea7cf729852702eaf880a
+    name: CategoryInfo
+    sortOrder: 200
+    fields:
+      - id: 6afea7cf729852702eaf880b
+        name: CategoryName
+        title: Tên danh mục
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf880c
+        name: GroupId
+        title: Nhóm ngành hàng
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf880d
+        name: BannerTitle
+        title: Tiêu đề Banner
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf880e
+        name: BannerSubtitle
+        title: Phụ đề Banner
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf880f
+        name: BannerHighlight
+        title: Điểm nhấn khuyến mãi
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8810
+        name: SeoIntro
+        title: Giới thiệu ngành hàng (SEO)
+        type: richText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+  - id: 6afea7cf729852702eaf8811
+    name: CategoryConfiguration
+    sortOrder: 300
+    fields:
+      - id: 6afea7cf729852702eaf8812
+        name: FacetsJson
+        title: Bộ lọc thuộc tính (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8813
+        name: NeedsJson
+        title: Nhu cầu sử dụng (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8814
+        name: PricePresetsJson
+        title: Mốc giá lọc (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8815
+        name: BannersJson
+        title: Danh sách Banner quảng cáo (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8816
+        name: VouchersJson
+        title: Mã giảm giá / Voucher (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8817
+        name: FaqJson
+        title: Câu hỏi thường gặp FAQ (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields: {}
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

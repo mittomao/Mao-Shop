@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7a5a
+name: man-hinh-viewsonic-vx2479-32-inch-2k-100hz
+displayName: Màn hình ViewSonic VX2479 32 inch 2K 100Hz
+path: /root/content/home/danh-muc/man-hinh/man-hinh-viewsonic-vx2479-32-inch-2k-100hz
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e4
+parentPath: /root/content/home/danh-muc/man-hinh
+sortOrder: 1650
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Văn phòng"],"kichthuoc":"32 inch","dophangiai":"2K","tanso":"100Hz","tamnen":"IPS"}'
+          Brand: ViewSonic
+          CategoryId: monitor
+          Color: '#94a3b8'
+          ColorsJson: '[{"name":"Tím","color":"#94a3b8"},{"name":"Bạc","color":"#e5e7eb"},{"name":"Cam vũ trụ","color":"#f97316"}]'
+          Description: |-
+            Màn hình ViewSonic VX2479 32 inch 2K 100Hz là sản phẩm ViewSonic chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"monitor","color":"#94a3b8","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"monitor","color":"#94a3b8","label":"Tím"},{"id":"color-Bạc","kind":"monitor","color":"#e5e7eb","label":"Bạc"},{"id":"color-Cam vũ trụ","kind":"monitor","color":"#f97316","label":"Cam vũ trụ"}]'
+          Installment0: true
+          IsNew: false
+          Kind: monitor
+          MemberDiscount: '75000'
+          MetaDescription: Mua ngay Màn hình ViewSonic VX2479 32 inch 2K 100Hz giá chỉ 7.490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '7490000'
+          PageTitle: Màn hình ViewSonic VX2479 32 inch 2K 100Hz chính hãng, giá tốt | MaoShop
+          Popularity: '26'
+          Price: '7490000'
+          ProductName: Màn hình ViewSonic VX2479 32 inch 2K 100Hz
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '4.7'
+          ReviewCount: '26'
+          Slug: man-hinh-viewsonic-vx2479-32-inch-2k-100hz
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"32 inch"},{"label":"Độ phân giải","value":"2K"},{"label":"Tấm nền","value":"IPS"},{"label":"Tần số quét","value":"100Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Không"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,39 @@
+_id: 6afe97d7fbfd9197e49727e9
+name: dong-ho
+displayName: Đồng hồ
+path: /root/content/home/danh-muc/dong-ho
+template:
+  id: 6afe97d6fbfd9197e4972797
+  name: CategoryPage
+  path: ''
+parentId: 6afe7299d9277cb955c05da7
+parentPath: /root/content/home/danh-muc
+sortOrder: 50
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          BannerHighlight: Ưu đãi hấp dẫn
+          BannersJson: '[{"title":"Apple Watch Series 11","subtitle":"Giảm thêm 300K khi thanh toán online","from":"#064e3b","to":"#10b981","kind":"watch","color":"#f43f5e"},{"title":"Đồng hồ thể thao Garmin","subtitle":"Trả góp 0%, tặng dây đeo","from":"#0c4a6e","to":"#0891b2","kind":"watch","color":"#0891b2"}]'
+          BannerSubtitle: Chính hãng 100% - Bảo hành tận tâm - Trả góp 0%
+          BannerTitle: Đồng hồ
+          CategoryId: watch
+          CategoryName: Đồng hồ
+          FacetsJson: '[{"key":"hang","label":"Hãng sản xuất","type":"brand"},{"key":"nhucau","label":"Nhu cầu sử dụng","type":"attr"},{"key":"kichthuoc","label":"Kích thước mặt","type":"attr"},{"key":"tinhnang","label":"Tính năng","type":"attr"},{"key":"pin","label":"Thời lượng pin","type":"attr"}]'
+          FaqJson: '[{"q":"Làm sao để chọn mua đồng hồ thông minh đúng nhu cầu?","a":"Hãy xác định nhu cầu chính (học tập, làm việc, giải trí), mức ngân sách, sau đó dùng bộ lọc \"Nhu cầu sử dụng\" và \"Xem theo giá\" để thu hẹp lựa chọn. Nhân viên MaoShop luôn sẵn sàng tư vấn miễn phí."},{"q":"MaoShop có thu cũ đổi mới khi mua đồng hồ thông minh không?","a":"Có. Bạn mang máy cũ tới cửa hàng hoặc dùng công cụ \"Định giá máy chuyên sâu\" để biết giá thu, trợ giá lên đời đến 3 triệu."},{"q":"Chính sách trả góp 0% khi mua đồng hồ thông minh như thế nào?","a":"Trả góp 0% qua thẻ tín dụng kỳ hạn 3–12 tháng, hoặc qua công ty tài chính chỉ cần CCCD, duyệt hồ sơ trong 5 phút."},{"q":"Sản phẩm được bảo hành bao lâu?","a":"Sản phẩm chính hãng được bảo hành 12 tháng, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."},{"q":"Bao lâu thì nhận được hàng?","a":"Nội thành Hà Nội và TP.HCM giao nhanh trong 2 giờ. Các tỉnh khác giao trong 1–3 ngày, miễn phí cho đơn từ 300.000đ."}]'
+          GroupId: wearable
+          MetaDescription: Mua Đồng hồ chính hãng giá tốt, trả góp 0%, bảo hành 12 tháng tại hệ thống MaoShop.
+          NeedsJson: '[{"label":"Thể thao","kind":"watch","color":"#f97316"},{"label":"Sức khỏe","kind":"watch","color":"#f43f5e"},{"label":"Thời trang","kind":"watch","color":"#a16207"}]'
+          PageTitle: Đồng hồ thông minh chính hãng, giá tốt | MaoShop
+          PricePresetsJson: '[[0,2000000],[2000000,5000000],[5000000,10000000],[10000000,40000000]]'
+          SeoIntro: Đồng hồ thông minh giúp theo dõi sức khỏe, luyện tập, nhận thông báo và thanh toán ngay trên cổ tay.
+          Slug: dong-ho
+          VouchersJson: '[{"id":"v1","title":"Voucher đồng hồ 6%","detail":"Tối đa 500K, áp dụng toàn bộ đồng hồ","discount":"6%","expires":"31/10/2026"},{"id":"v2","title":"Giảm không giới hạn","detail":"Áp dụng khi thanh toán qua VNPAY-QR","discount":"5%","expires":"31/10/2026"},{"id":"v3","title":"Sinh viên giảm thêm","detail":"Xác thực S-Student để nhận ưu đãi","discount":"300K","expires":"30/11/2026"}]'
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,123 @@
+_id: 6afe7282b5686c9bee79f9bf
+name: Hero
+displayName: Hero Carousel & Banners
+path: /root/templates/Feature/Components/Hero
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f8601
+parentPath: /root/templates/Feature/Components
+sortOrder: 100
+icon: ti ti-slideshow
+description: Template dữ liệu cho component Hero
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afe791d33eda5465dd680ce
+    name: Hero Content
+    sortOrder: 100
+    fields:
+      - id: 6afe791d33eda5465dd680cf
+        name: Title
+        title: Tiêu đề Hero
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Siêu Phẩm Công Nghệ 2026
+        shared: false
+        sortOrder: 10
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd680d0
+        name: Subtitle
+        title: Phụ đề Hero
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Thu cũ đổi mới trợ giá đến 5 triệu, bảo hành chính hãng 12 tháng.
+        shared: false
+        sortOrder: 20
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd680d1
+        name: Eyebrow
+        title: Nhãn phụ phía trên
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Ưu đãi mùa hè 2026
+        shared: false
+        sortOrder: 30
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd680d2
+        name: BannerLink
+        title: Đường dẫn liên kết
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: /danh-muc
+        shared: false
+        sortOrder: 40
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions: []

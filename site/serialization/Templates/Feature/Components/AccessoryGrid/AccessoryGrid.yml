@@ -1,0 +1,99 @@
+_id: 6afe7282b5686c9bee79f9e2
+name: AccessoryGrid
+displayName: Accessory Categories Grid
+path: /root/templates/Feature/Components/AccessoryGrid
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f8601
+parentPath: /root/templates/Feature/Components
+sortOrder: 100
+icon: ti ti-plug
+description: Template dữ liệu cho component AccessoryGrid
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afe791d33eda5465dd6811f
+    name: Accessory Grid Data
+    sortOrder: 100
+    fields:
+      - id: 6afe791d33eda5465dd68120
+        name: Title
+        title: Tiêu đề khối phụ kiện
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Phụ Kiện Chính Hãng
+        shared: false
+        sortOrder: 10
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68121
+        name: Subtitle
+        title: Phụ đề khối phụ kiện
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Tai nghe, cáp sạc, ốp lưng, pin dự phòng cao cấp
+        shared: false
+        sortOrder: 20
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68122
+        name: ViewAllLink
+        title: Link xem tất cả
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: /danh-muc?cat=accessories
+        shared: false
+        sortOrder: 30
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions: []

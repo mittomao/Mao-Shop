@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7c6c
+name: cu-sac-735-gan-65w-anker
+displayName: Củ sạc 735 GaN 65W Anker
+path: /root/content/home/danh-muc/phu-kien/cu-sac-735-gan-65w-anker
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 2710
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Củ cáp"],"tinhnang":["Sạc nhanh"]}'
+          Brand: Anker
+          CategoryId: accessory
+          Color: '#1f2937'
+          ColorsJson: '[{"name":"Đen","color":"#1f2937"},{"name":"Đỏ Burgundy","color":"#7f1d1d"},{"name":"Xám titan","color":"#64748b"}]'
+          Description: |-
+            Củ sạc 735 GaN 65W Anker là sản phẩm Anker chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"charger","color":"#1f2937","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"charger","color":"#1f2937","label":"Đen"},{"id":"color-Đỏ Burgundy","kind":"charger","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"color-Xám titan","kind":"charger","color":"#64748b","label":"Xám titan"}]'
+          Installment0: false
+          IsNew: false
+          Kind: charger
+          MemberDiscount: '11000'
+          MetaDescription: Mua ngay Củ sạc 735 GaN 65W Anker giá chỉ 1.080.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '1310000'
+          PageTitle: Củ sạc 735 GaN 65W Anker chính hãng, giá tốt | MaoShop
+          Popularity: '75'
+          Price: '1080000'
+          ProductName: Củ sạc 735 GaN 65W Anker
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '75'
+          Slug: cu-sac-735-gan-65w-anker
+          SpecsJson: '[{"label":"Thương hiệu","value":"Anker"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Củ cáp
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

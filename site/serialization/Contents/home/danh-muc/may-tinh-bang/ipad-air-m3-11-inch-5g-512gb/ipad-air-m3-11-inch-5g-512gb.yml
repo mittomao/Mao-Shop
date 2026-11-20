@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf790b
+name: ipad-air-m3-11-inch-5g-512gb
+displayName: iPad Air M3 11 inch 5G 512GB
+path: /root/content/home/danh-muc/may-tinh-bang/ipad-air-m3-11-inch-5g-512gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727da
+parentPath: /root/content/home/danh-muc/may-tinh-bang
+sortOrder: 980
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Học tập"],"ram":"8GB","bonho":"512GB","manhinh":"11 inch","ketnoi":"WiFi + 5G"}'
+          Brand: Apple
+          CategoryId: tablet
+          Color: '#7c3aed'
+          ColorsJson: '[{"name":"Tím","color":"#7c3aed"},{"name":"Xám titan","color":"#64748b"},{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"}]'
+          Description: |-
+            iPad Air M3 11 inch 5G 512GB là sản phẩm Apple chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tablet","color":"#7c3aed","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"tablet","color":"#7c3aed","label":"Tím"},{"id":"color-Xám titan","kind":"tablet","color":"#64748b","label":"Xám titan"},{"id":"color-Đen","kind":"tablet","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"tablet","color":"#22c55e","label":"Xanh lá"},{"id":"extra-0","kind":"keyboard","color":"#7c3aed","label":"Bàn phím"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tablet
+          MemberDiscount: '247000'
+          MetaDescription: Mua ngay iPad Air M3 11 inch 5G 512GB giá chỉ 24.650.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '29200000'
+          PageTitle: iPad Air M3 11 inch 5G 512GB chính hãng, giá tốt | MaoShop
+          Popularity: '29'
+          Price: '24650000'
+          ProductName: iPad Air M3 11 inch 5G 512GB
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '4.5'
+          ReviewCount: '29'
+          Slug: ipad-air-m3-11-inch-5g-512gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"11 inch"},{"label":"Công nghệ màn hình","value":"IPS LCD / OLED"},{"label":"Chipset","value":"Chip hiệu năng cao"},{"label":"Bộ nhớ trong","value":"512GB"},{"label":"Camera sau","value":"12 MP"},{"label":"Camera trước","value":"12 MP góc siêu rộng"},{"label":"Pin","value":"Lên đến 10 giờ sử dụng"},{"label":"Kết nối","value":"Wi-Fi 6E, Bluetooth 5.3, USB-C"},{"label":"Hệ điều hành","value":"iPadOS 26"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

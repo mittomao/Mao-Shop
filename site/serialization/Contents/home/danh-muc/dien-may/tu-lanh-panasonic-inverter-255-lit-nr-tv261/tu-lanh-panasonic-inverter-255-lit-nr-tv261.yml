@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf783e
+name: tu-lanh-panasonic-inverter-255-lit-nr-tv261
+displayName: Tủ lạnh Panasonic Inverter 255 lít NR-TV261
+path: /root/content/home/danh-muc/dien-may/tu-lanh-panasonic-inverter-255-lit-nr-tv261
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f8
+parentPath: /root/content/home/danh-muc/dien-may
+sortOrder: 570
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Tủ lạnh"],"tinhnang":["Inverter tiết kiệm điện"]}'
+          Brand: Panasonic
+          CategoryId: appliance
+          Color: '#d1d5db'
+          ColorsJson: '[{"name":"Bạc","color":"#d1d5db"},{"name":"Đen","color":"#1f2937"},{"name":"Cam vũ trụ","color":"#f97316"}]'
+          Description: |-
+            Tủ lạnh Panasonic Inverter 255 lít NR-TV261 là sản phẩm Panasonic chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"fridge","color":"#d1d5db","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"fridge","color":"#d1d5db","label":"Bạc"},{"id":"color-Đen","kind":"fridge","color":"#1f2937","label":"Đen"},{"id":"color-Cam vũ trụ","kind":"fridge","color":"#f97316","label":"Cam vũ trụ"}]'
+          Installment0: false
+          IsNew: false
+          Kind: fridge
+          MemberDiscount: '80000'
+          MetaDescription: Mua ngay Tủ lạnh Panasonic Inverter 255 lít NR-TV261 giá chỉ 7.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '9490000'
+          PageTitle: Tủ lạnh Panasonic Inverter 255 lít NR-TV261 chính hãng, giá tốt | MaoShop
+          Popularity: '84'
+          Price: '7990000'
+          ProductName: Tủ lạnh Panasonic Inverter 255 lít NR-TV261
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '84'
+          Slug: tu-lanh-panasonic-inverter-255-lit-nr-tv261
+          SpecsJson: '[{"label":"Thương hiệu","value":"Panasonic"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Tủ lạnh
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

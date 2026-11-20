@@ -29,9 +29,17 @@ sections:
         unversioned: false
         helpText: ''
         validation: {}
-        visibility: {}
-        permissions: {}
-        layout: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
         config: {}
 standardValues: {}
 sharedFields: {}

@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf79c9
+name: laptop-lenovo-loq-15-vg845
+displayName: Laptop Lenovo LOQ 15 VG845
+path: /root/content/home/danh-muc/laptop/laptop-lenovo-loq-15-vg845
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 1360
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"cpu":"AMD Ryzen 5","ram":"16GB","ocung":"1TB","gpu":"RTX 4060","manhinh":"15 - 16 inch","dophangiai":"2.8K OLED","tinhnang":["Màn hình 144Hz","Bàn phím LED","Webcam Full HD"],"ai":"Không có"}'
+          Brand: Lenovo
+          CategoryId: laptop
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Đen","color":"#1f2937"},{"name":"Cam vũ trụ","color":"#f97316"}]'
+          Description: |-
+            Laptop Lenovo LOQ 15 VG845 là sản phẩm Lenovo chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"laptop","color":"#e5e7eb","label":"Bạc"},{"id":"color-Đen","kind":"laptop","color":"#1f2937","label":"Đen"},{"id":"color-Cam vũ trụ","kind":"laptop","color":"#f97316","label":"Cam vũ trụ"},{"id":"extra-0","kind":"keyboard","color":"#e5e7eb","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#e5e7eb","label":"Phụ kiện"}]'
+          Installment0: false
+          IsNew: false
+          Kind: laptop
+          MemberDiscount: '264000'
+          MetaDescription: Mua ngay Laptop Lenovo LOQ 15 VG845 giá chỉ 26.390.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '29500000'
+          PageTitle: Laptop Lenovo LOQ 15 VG845 chính hãng, giá tốt | MaoShop
+          Popularity: '32'
+          Price: '26390000'
+          ProductName: Laptop Lenovo LOQ 15 VG845
+          PromoText: Trả góp 0% lãi suất, tối đa 12 tháng, trả trước từ 10%
+          Rating: '4.6'
+          ReviewCount: '32'
+          Slug: laptop-lenovo-loq-15-vg845
+          SpecsJson: '[{"label":"CPU","value":"AMD Ryzen 5"},{"label":"Card đồ họa","value":"RTX 4060"},{"label":"RAM","value":"16GB"},{"label":"Ổ cứng","value":"SSD 1TB"},{"label":"Kích thước màn hình","value":"15 - 16 inch"},{"label":"Độ phân giải","value":"2.8K OLED"},{"label":"Công nghệ AI","value":"Không có"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"Windows 11 Home"}]'
+          SubCategory: Gaming
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

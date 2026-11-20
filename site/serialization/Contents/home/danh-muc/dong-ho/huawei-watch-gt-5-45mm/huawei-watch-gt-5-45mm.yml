@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7aeb
+name: huawei-watch-gt-5-45mm
+displayName: Huawei Watch GT 5 45mm
+path: /root/content/home/danh-muc/dong-ho/huawei-watch-gt-5-45mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 1940
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Thời trang"],"kichthuoc":"44 - 46mm","tinhnang":["GPS","ECG"],"pin":"2 - 7 ngày"}'
+          Brand: Huawei
+          CategoryId: watch
+          Color: '#0ea5e9'
+          ColorsJson: '[{"name":"Xám titan","color":"#0ea5e9"},{"name":"Hồng","color":"#ec4899"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Huawei Watch GT 5 45mm là sản phẩm Huawei chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#0ea5e9","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"watch","color":"#0ea5e9","label":"Xám titan"},{"id":"color-Hồng","kind":"watch","color":"#ec4899","label":"Hồng"},{"id":"color-Nâu","kind":"watch","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"watch","color":"#93c5fd","label":"Xanh dương"},{"id":"extra-0","kind":"phone","color":"#0ea5e9","label":"Kết nối"}]'
+          Installment0: false
+          IsNew: false
+          Kind: watch
+          MemberDiscount: '31000'
+          MetaDescription: Mua ngay Huawei Watch GT 5 45mm giá chỉ 3.130.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '3430000'
+          PageTitle: Huawei Watch GT 5 45mm chính hãng, giá tốt | MaoShop
+          Popularity: '59'
+          Price: '3130000'
+          ProductName: Huawei Watch GT 5 45mm
+          PromoText: Thu cũ đổi mới trợ giá đến 2 triệu
+          Rating: '4.8'
+          ReviewCount: '59'
+          Slug: huawei-watch-gt-5-45mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"45mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

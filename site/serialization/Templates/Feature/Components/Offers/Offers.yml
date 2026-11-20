@@ -1,0 +1,435 @@
+_id: 6afe7282b5686c9bee79f9e8
+name: Offers
+displayName: Payment & Partner Offers
+path: /root/templates/Feature/Components/Offers
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f8601
+parentPath: /root/templates/Feature/Components
+sortOrder: 100
+icon: ti ti-gift
+description: Template dữ liệu cho component Offers
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afe791d33eda5465dd6812d
+    name: Offers Content
+    sortOrder: 100
+    fields:
+      - id: 6afe791d33eda5465dd6812e
+        name: Title
+        title: Tiêu đề khối ưu đãi
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Ưu đãi thanh toán & đối tác
+        shared: false
+        sortOrder: 10
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd6812f
+        name: Offer1_Badge
+        title: Ưu đãi 1 - Nhãn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Thẻ Tín Dụng
+        shared: false
+        sortOrder: 20
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68130
+        name: Offer1_Title
+        title: Ưu đãi 1 - Tiêu đề
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Giảm đến 800K khi mở thẻ Techcombank
+        shared: false
+        sortOrder: 30
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68131
+        name: Offer1_Desc
+        title: Ưu đãi 1 - Mô tả ngắn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Áp dụng cho mọi hóa đơn mua điện thoại, laptop từ 10 triệu
+        shared: false
+        sortOrder: 40
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68132
+        name: Offer1_Link
+        title: Ưu đãi 1 - Liên kết
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '#offers'
+        shared: false
+        sortOrder: 50
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68133
+        name: Offer2_Badge
+        title: Ưu đãi 2 - Nhãn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Ví Điện Tử
+        shared: false
+        sortOrder: 60
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68134
+        name: Offer2_Title
+        title: Ưu đãi 2 - Tiêu đề
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Hoàn tiền 10% tối đa 300K qua VNPAY-QR
+        shared: false
+        sortOrder: 70
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68135
+        name: Offer2_Desc
+        title: Ưu đãi 2 - Mô tả ngắn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Nhập mã VNPAYMAOPHONE khi quét mã thanh toán
+        shared: false
+        sortOrder: 80
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68136
+        name: Offer2_Link
+        title: Ưu đãi 2 - Liên kết
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '#offers'
+        shared: false
+        sortOrder: 90
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68137
+        name: Offer3_Badge
+        title: Ưu đãi 3 - Nhãn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Thu Cũ Đổi Mới
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68138
+        name: Offer3_Title
+        title: Ưu đãi 3 - Tiêu đề
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Trợ giá lên đời đến 5 triệu đồng
+        shared: false
+        sortOrder: 110
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68139
+        name: Offer3_Desc
+        title: Ưu đãi 3 - Mô tả ngắn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Thẩm định máy cũ 15 phút, nhận ngay máy mới siêu tốc
+        shared: false
+        sortOrder: 120
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd6813a
+        name: Offer3_Link
+        title: Ưu đãi 3 - Liên kết
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '#offers'
+        shared: false
+        sortOrder: 130
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd6813b
+        name: Offer4_Badge
+        title: Ưu đãi 4 - Nhãn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Sinh Viên
+        shared: false
+        sortOrder: 140
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd6813c
+        name: Offer4_Title
+        title: Ưu đãi 4 - Tiêu đề
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Giảm thêm 5% cho học sinh - sinh viên
+        shared: false
+        sortOrder: 150
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd6813d
+        name: Offer4_Desc
+        title: Ưu đãi 4 - Mô tả ngắn
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Ưu đãi tựu trường áp dụng cho laptop, iPad và phụ kiện
+        shared: false
+        sortOrder: 160
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd6813e
+        name: Offer4_Link
+        title: Ưu đãi 4 - Liên kết
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '#offers'
+        shared: false
+        sortOrder: 170
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions: []

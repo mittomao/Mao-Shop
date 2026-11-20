@@ -1,0 +1,52 @@
+_id: 6afea77e15e491e32ddf7cd5
+name: hero13-black-gopro
+displayName: HERO13 Black GoPro
+path: /root/content/home/danh-muc/phu-kien/hero13-black-gopro
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 2920
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Camera"],"tinhnang":["Chống nước"]}'
+          Brand: GoPro
+          CategoryId: accessory
+          Color: '#be123c'
+          ColorsJson: '[{"name":"Đỏ Burgundy","color":"#be123c"},{"name":"Hồng","color":"#ec4899"},{"name":"Vàng","color":"#f59e0b"}]'
+          Description: |-
+            HERO13 Black GoPro là sản phẩm GoPro chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"camera","color":"#be123c","label":"Tính năng nổi bật"},{"id":"color-Đỏ Burgundy","kind":"camera","color":"#be123c","label":"Đỏ Burgundy"},{"id":"color-Hồng","kind":"camera","color":"#ec4899","label":"Hồng"},{"id":"color-Vàng","kind":"camera","color":"#f59e0b","label":"Vàng"}]'
+          Installment0: true
+          IsNew: true
+          Kind: camera
+          MemberDiscount: '105000'
+          MetaDescription: Mua ngay HERO13 Black GoPro giá chỉ 10.480.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '10930000'
+          PageTitle: HERO13 Black GoPro chính hãng, giá tốt | MaoShop
+          Popularity: '64'
+          Price: '10480000'
+          ProductName: HERO13 Black GoPro
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.7'
+          ReviewCount: '64'
+          Slug: hero13-black-gopro
+          SpecsJson: '[{"label":"Thương hiệu","value":"GoPro"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Camera
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

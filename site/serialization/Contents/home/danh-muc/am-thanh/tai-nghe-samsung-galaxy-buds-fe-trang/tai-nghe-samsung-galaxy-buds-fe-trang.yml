@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7b6d
+name: tai-nghe-samsung-galaxy-buds-fe-trang
+displayName: Tai nghe Samsung Galaxy Buds FE Trắng
+path: /root/content/home/danh-muc/am-thanh/tai-nghe-samsung-galaxy-buds-fe-trang
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727ee
+parentPath: /root/content/home/danh-muc/am-thanh
+sortOrder: 2200
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chơi game","Nghe nhạc"],"loai":"Tai nghe không dây","tinhnang":["Chống nước"]}'
+          Brand: Samsung
+          CategoryId: audio
+          Color: '#0f766e'
+          ColorsJson: '[{"name":"Xanh lá","color":"#0f766e"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Tím","color":"#a78bfa"},{"name":"Nâu","color":"#78350f"}]'
+          Description: |-
+            Tai nghe Samsung Galaxy Buds FE Trắng là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"earbuds","color":"#0f766e","label":"Tính năng nổi bật"},{"id":"color-Xanh lá","kind":"earbuds","color":"#0f766e","label":"Xanh lá"},{"id":"color-Cam vũ trụ","kind":"earbuds","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Tím","kind":"earbuds","color":"#a78bfa","label":"Tím"},{"id":"color-Nâu","kind":"earbuds","color":"#78350f","label":"Nâu"}]'
+          Installment0: false
+          IsNew: false
+          Kind: earbuds
+          MemberDiscount: '15000'
+          MetaDescription: Mua ngay Tai nghe Samsung Galaxy Buds FE Trắng giá chỉ 1.530.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '1600000'
+          PageTitle: Tai nghe Samsung Galaxy Buds FE Trắng chính hãng, giá tốt | MaoShop
+          Popularity: '79'
+          Price: '1530000'
+          ProductName: Tai nghe Samsung Galaxy Buds FE Trắng
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '4.6'
+          ReviewCount: '79'
+          Slug: tai-nghe-samsung-galaxy-buds-fe-trang
+          SpecsJson: '[{"label":"Loại","value":"Tai nghe không dây"},{"label":"Chống ồn","value":"Chống ồn chủ động (ANC)"},{"label":"Thời lượng pin","value":"Lên đến 30 giờ (kèm hộp sạc)"},{"label":"Kết nối","value":"Bluetooth 5.3"},{"label":"Chống nước","value":"IP54"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf794c
+name: galaxy-tab-s10-fe-5g-64gb
+displayName: Galaxy Tab S10 FE 5G 64GB
+path: /root/content/home/danh-muc/may-tinh-bang/galaxy-tab-s10-fe-5g-64gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727da
+parentPath: /root/content/home/danh-muc/may-tinh-bang
+sortOrder: 1110
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Học tập","Giải trí"],"ram":"6GB","bonho":"64GB","manhinh":"11 inch","ketnoi":"WiFi + 5G"}'
+          Brand: Samsung
+          CategoryId: tablet
+          Color: '#a16207'
+          ColorsJson: '[{"name":"Nâu","color":"#a16207"},{"name":"Vàng","color":"#f59e0b"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Galaxy Tab S10 FE 5G 64GB là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tablet","color":"#a16207","label":"Tính năng nổi bật"},{"id":"color-Nâu","kind":"tablet","color":"#a16207","label":"Nâu"},{"id":"color-Vàng","kind":"tablet","color":"#f59e0b","label":"Vàng"},{"id":"color-Xanh dương","kind":"tablet","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"tablet","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"extra-0","kind":"keyboard","color":"#a16207","label":"Bàn phím"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tablet
+          MemberDiscount: '60000'
+          MetaDescription: Mua ngay Galaxy Tab S10 FE 5G 64GB giá chỉ 5.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '5990000'
+          PageTitle: Galaxy Tab S10 FE 5G 64GB chính hãng, giá tốt | MaoShop
+          Popularity: '17'
+          Price: '5990000'
+          ProductName: Galaxy Tab S10 FE 5G 64GB
+          PromoText: Trả góp 0% lãi suất, tối đa 12 tháng, trả trước từ 10%
+          Rating: '5'
+          ReviewCount: '17'
+          Slug: galaxy-tab-s10-fe-5g-64gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"11 inch"},{"label":"Công nghệ màn hình","value":"IPS LCD / OLED"},{"label":"Chipset","value":"Chip hiệu năng cao"},{"label":"Bộ nhớ trong","value":"64GB"},{"label":"Camera sau","value":"12 MP"},{"label":"Camera trước","value":"12 MP góc siêu rộng"},{"label":"Pin","value":"Lên đến 10 giờ sử dụng"},{"label":"Kết nối","value":"Wi-Fi 6E, Bluetooth 5.3, USB-C"},{"label":"Hệ điều hành","value":"Android 16"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

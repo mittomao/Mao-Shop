@@ -4,5 +4,6 @@ site/.env*
 !site/.env.example
 site/backups/
 site/logs/
+site/public/react/
 .DS_Store
 Thumbs.db

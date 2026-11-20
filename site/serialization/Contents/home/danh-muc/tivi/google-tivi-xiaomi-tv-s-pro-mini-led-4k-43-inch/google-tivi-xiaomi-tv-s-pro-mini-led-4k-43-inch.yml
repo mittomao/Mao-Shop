@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7ba4
+name: google-tivi-xiaomi-tv-s-pro-mini-led-4k-43-inch
+displayName: Google Tivi Xiaomi TV S Pro Mini LED 4K 43 inch
+path: /root/content/home/danh-muc/tivi/google-tivi-xiaomi-tv-s-pro-mini-led-4k-43-inch
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f3
+parentPath: /root/content/home/danh-muc/tivi
+sortOrder: 2310
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Phòng ngủ","Chơi game"],"kichthuoc":"43 inch","dophangiai":"4K","loai":"Mini LED","hedieuhanh":"Google TV"}'
+          Brand: Xiaomi
+          CategoryId: tv
+          Color: '#1f2937'
+          ColorsJson: '[{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Google Tivi Xiaomi TV S Pro Mini LED 4K 43 inch là sản phẩm Xiaomi chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tv","color":"#1f2937","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"tv","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"tv","color":"#22c55e","label":"Xanh lá"},{"id":"color-Hồng","kind":"tv","color":"#ec4899","label":"Hồng"},{"id":"extra-0","kind":"speaker","color":"#1f2937","label":"Âm thanh"}]'
+          Installment0: false
+          IsNew: false
+          Kind: tv
+          MemberDiscount: '99000'
+          MetaDescription: Mua ngay Google Tivi Xiaomi TV S Pro Mini LED 4K 43 inch giá chỉ 9.890.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '10660000'
+          PageTitle: Google Tivi Xiaomi TV S Pro Mini LED 4K 43 inch chính hãng, giá tốt | MaoShop
+          Popularity: '59'
+          Price: '9890000'
+          ProductName: Google Tivi Xiaomi TV S Pro Mini LED 4K 43 inch
+          PromoText: Thu cũ đổi mới trợ giá đến 2 triệu
+          Rating: '4.7'
+          ReviewCount: '59'
+          Slug: google-tivi-xiaomi-tv-s-pro-mini-led-4k-43-inch
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"43 inch"},{"label":"Độ phân giải","value":"4K"},{"label":"Tấm nền","value":"Mini LED"},{"label":"Tần số quét","value":"120Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Google TV"}]'
+          SubCategory: 43 inch
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

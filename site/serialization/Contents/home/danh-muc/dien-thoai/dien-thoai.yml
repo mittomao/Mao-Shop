@@ -1,0 +1,39 @@
+_id: 6afe97d6fbfd9197e49727d5
+name: dien-thoai
+displayName: Điện thoại
+path: /root/content/home/danh-muc/dien-thoai
+template:
+  id: 6afe97d6fbfd9197e4972797
+  name: CategoryPage
+  path: ''
+parentId: 6afe7299d9277cb955c05da7
+parentPath: /root/content/home/danh-muc
+sortOrder: 10
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          BannerHighlight: Ưu đãi hấp dẫn
+          BannersJson: '[{"title":"Lên đời iPhone 17 Series","subtitle":"Thu cũ trợ giá đến 5 triệu","from":"#1f2937","to":"#f97316","kind":"phone","color":"#f97316"},{"title":"Galaxy AI - Giảm đến 6 triệu","subtitle":"Tặng bảo hành màn hình 12 tháng","from":"#1e3a8a","to":"#38bdf8","kind":"foldable","color":"#1e3a8a"}]'
+          BannerSubtitle: Chính hãng 100% - Bảo hành tận tâm - Trả góp 0%
+          BannerTitle: Điện thoại
+          CategoryId: phone
+          CategoryName: Điện thoại
+          FacetsJson: '[{"key":"hang","label":"Hãng sản xuất","type":"brand"},{"key":"nhucau","label":"Nhu cầu sử dụng","type":"attr"},{"key":"ram","label":"Dung lượng RAM","type":"attr"},{"key":"bonho","label":"Bộ nhớ trong","type":"attr"},{"key":"manhinh","label":"Kích thước màn hình","type":"attr"},{"key":"tinhnang","label":"Tính năng đặc biệt","type":"attr"}]'
+          FaqJson: '[{"q":"Làm sao để chọn mua điện thoại đúng nhu cầu?","a":"Hãy xác định nhu cầu chính (học tập, làm việc, giải trí), mức ngân sách, sau đó dùng bộ lọc \"Nhu cầu sử dụng\" và \"Xem theo giá\" để thu hẹp lựa chọn. Nhân viên MaoShop luôn sẵn sàng tư vấn miễn phí."},{"q":"MaoShop có thu cũ đổi mới khi mua điện thoại không?","a":"Có. Bạn mang máy cũ tới cửa hàng hoặc dùng công cụ \"Định giá máy chuyên sâu\" để biết giá thu, trợ giá lên đời đến 3 triệu."},{"q":"Chính sách trả góp 0% khi mua điện thoại như thế nào?","a":"Trả góp 0% qua thẻ tín dụng kỳ hạn 3–12 tháng, hoặc qua công ty tài chính chỉ cần CCCD, duyệt hồ sơ trong 5 phút."},{"q":"Sản phẩm được bảo hành bao lâu?","a":"Sản phẩm chính hãng được bảo hành 12 tháng, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."},{"q":"Bao lâu thì nhận được hàng?","a":"Nội thành Hà Nội và TP.HCM giao nhanh trong 2 giờ. Các tỉnh khác giao trong 1–3 ngày, miễn phí cho đơn từ 300.000đ."}]'
+          GroupId: mobile
+          MetaDescription: Mua Điện thoại chính hãng giá tốt, trả góp 0%, bảo hành 12 tháng tại hệ thống MaoShop.
+          NeedsJson: '[{"label":"Chụp ảnh đẹp","kind":"camera","color":"#334155"},{"label":"Điện thoại 5G","kind":"phone","color":"#93c5fd"},{"label":"Điện thoại chơi game","kind":"phone","color":"#111827"},{"label":"Điện thoại pin trâu","kind":"powerbank","color":"#22c55e"},{"label":"Điện thoại gập","kind":"foldable","color":"#1e3a8a"}]'
+          PageTitle: Điện thoại chính hãng, giá tốt | MaoShop
+          PricePresetsJson: '[[0,4000000],[4000000,7000000],[7000000,13000000],[13000000,20000000],[20000000,60000000]]'
+          SeoIntro: Điện thoại thông minh là thiết bị không thể thiếu trong cuộc sống hiện đại, giúp liên lạc, làm việc, học tập và giải trí mọi lúc mọi nơi. Thị trường hiện có rất nhiều lựa chọn từ phổ thông đến cao cấp.
+          Slug: dien-thoai
+          VouchersJson: '[{"id":"v1","title":"Voucher điện thoại 6%","detail":"Tối đa 500K, áp dụng toàn bộ điện thoại","discount":"6%","expires":"31/10/2026"},{"id":"v2","title":"Giảm không giới hạn","detail":"Áp dụng khi thanh toán qua VNPAY-QR","discount":"5%","expires":"31/10/2026"},{"id":"v3","title":"Sinh viên giảm thêm","detail":"Xác thực S-Student để nhận ưu đãi","discount":"300K","expires":"30/11/2026"}]'
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

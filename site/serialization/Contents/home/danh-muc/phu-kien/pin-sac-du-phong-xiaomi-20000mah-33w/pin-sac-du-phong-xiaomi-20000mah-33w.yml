@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf786b
+name: pin-sac-du-phong-xiaomi-20000mah-33w
+displayName: Pin sạc dự phòng Xiaomi 20000mAh 33W
+path: /root/content/home/danh-muc/phu-kien/pin-sac-du-phong-xiaomi-20000mah-33w
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 660
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Sạc dự phòng"],"tinhnang":["Sạc nhanh"]}'
+          Brand: Xiaomi
+          CategoryId: accessory
+          Color: '#0f172a'
+          ColorsJson: '[{"name":"Đen","color":"#0f172a"},{"name":"Vàng","color":"#f59e0b"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Pin sạc dự phòng Xiaomi 20000mAh 33W là sản phẩm Xiaomi chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"powerbank","color":"#0f172a","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"powerbank","color":"#0f172a","label":"Đen"},{"id":"color-Vàng","kind":"powerbank","color":"#f59e0b","label":"Vàng"},{"id":"color-Xanh dương","kind":"powerbank","color":"#93c5fd","label":"Xanh dương"}]'
+          Installment0: false
+          IsNew: false
+          Kind: powerbank
+          MemberDiscount: '6000'
+          MetaDescription: Mua ngay Pin sạc dự phòng Xiaomi 20000mAh 33W giá chỉ 590.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '790000'
+          PageTitle: Pin sạc dự phòng Xiaomi 20000mAh 33W chính hãng, giá tốt | MaoShop
+          Popularity: '95'
+          Price: '590000'
+          ProductName: Pin sạc dự phòng Xiaomi 20000mAh 33W
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '95'
+          Slug: pin-sac-du-phong-xiaomi-20000mah-33w
+          SpecsJson: '[{"label":"Thương hiệu","value":"Xiaomi"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Sạc dự phòng
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

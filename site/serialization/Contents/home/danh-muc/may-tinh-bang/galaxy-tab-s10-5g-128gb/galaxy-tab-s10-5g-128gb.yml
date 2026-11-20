@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf796a
+name: galaxy-tab-s10-5g-128gb
+displayName: Galaxy Tab S10+ 5G 128GB
+path: /root/content/home/danh-muc/may-tinh-bang/galaxy-tab-s10-5g-128gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727da
+parentPath: /root/content/home/danh-muc/may-tinh-bang
+sortOrder: 1170
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Đồ họa"],"ram":"6GB","bonho":"128GB","manhinh":"11 inch","ketnoi":"WiFi + 5G"}'
+          Brand: Samsung
+          CategoryId: tablet
+          Color: '#a16207'
+          ColorsJson: '[{"name":"Nâu","color":"#a16207"},{"name":"Đỏ Burgundy","color":"#7f1d1d"},{"name":"Xám titan","color":"#64748b"},{"name":"Bạc","color":"#e5e7eb"}]'
+          Description: |-
+            Galaxy Tab S10+ 5G 128GB là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tablet","color":"#a16207","label":"Tính năng nổi bật"},{"id":"color-Nâu","kind":"tablet","color":"#a16207","label":"Nâu"},{"id":"color-Đỏ Burgundy","kind":"tablet","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"color-Xám titan","kind":"tablet","color":"#64748b","label":"Xám titan"},{"id":"color-Bạc","kind":"tablet","color":"#e5e7eb","label":"Bạc"},{"id":"extra-0","kind":"keyboard","color":"#a16207","label":"Bàn phím"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tablet
+          MemberDiscount: '119000'
+          MetaDescription: Mua ngay Galaxy Tab S10+ 5G 128GB giá chỉ 11.890.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '13490000'
+          PageTitle: Galaxy Tab S10+ 5G 128GB chính hãng, giá tốt | MaoShop
+          Popularity: '53'
+          Price: '11890000'
+          ProductName: Galaxy Tab S10+ 5G 128GB
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '4.5'
+          ReviewCount: '53'
+          Slug: galaxy-tab-s10-5g-128gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"11 inch"},{"label":"Công nghệ màn hình","value":"IPS LCD / OLED"},{"label":"Chipset","value":"Chip hiệu năng cao"},{"label":"Bộ nhớ trong","value":"128GB"},{"label":"Camera sau","value":"12 MP"},{"label":"Camera trước","value":"12 MP góc siêu rộng"},{"label":"Pin","value":"Lên đến 10 giờ sử dụng"},{"label":"Kết nối","value":"Wi-Fi 6E, Bluetooth 5.3, USB-C"},{"label":"Hệ điều hành","value":"Android 16"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

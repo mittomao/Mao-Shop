@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7a5f
+name: man-hinh-aoc-24g4-24-inch-full-hd-144hz
+displayName: Màn hình AOC 24G4 24 inch Full HD 144Hz
+path: /root/content/home/danh-muc/man-hinh/man-hinh-aoc-24g4-24-inch-full-hd-144hz
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e4
+parentPath: /root/content/home/danh-muc/man-hinh
+sortOrder: 1660
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"kichthuoc":"24 inch","dophangiai":"Full HD","tanso":"144Hz","tamnen":"VA"}'
+          Brand: AOC
+          CategoryId: monitor
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Màn hình AOC 24G4 24 inch Full HD 144Hz là sản phẩm AOC chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"monitor","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"monitor","color":"#e5e7eb","label":"Bạc"},{"id":"color-Xanh lá","kind":"monitor","color":"#22c55e","label":"Xanh lá"},{"id":"color-Hồng","kind":"monitor","color":"#ec4899","label":"Hồng"}]'
+          Installment0: true
+          IsNew: false
+          Kind: monitor
+          MemberDiscount: '36000'
+          MetaDescription: Mua ngay Màn hình AOC 24G4 24 inch Full HD 144Hz giá chỉ 3.590.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '4450000'
+          PageTitle: Màn hình AOC 24G4 24 inch Full HD 144Hz chính hãng, giá tốt | MaoShop
+          Popularity: '11'
+          Price: '3590000'
+          ProductName: Màn hình AOC 24G4 24 inch Full HD 144Hz
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '4.9'
+          ReviewCount: '11'
+          Slug: man-hinh-aoc-24g4-24-inch-full-hd-144hz
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"24 inch"},{"label":"Độ phân giải","value":"Full HD"},{"label":"Tấm nền","value":"VA"},{"label":"Tần số quét","value":"144Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Không"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

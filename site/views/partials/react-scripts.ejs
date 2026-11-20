@@ -1,0 +1,18 @@
+<%
+  let jsFile = null;
+  try {
+    const fs = globalThis.process.getBuiltinModule('fs');
+    const path = globalThis.process.getBuiltinModule('path');
+    const manifestPath = path.resolve(process.cwd(), 'site/public/react/manifest.json');
+    if (fs.existsSync(manifestPath)) {
+      const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+      const entry = manifest['src/main.tsx'] || Object.values(manifest).find(v => v.isEntry);
+      if (entry) {
+        jsFile = entry.file;
+      }
+    }
+  } catch (err) {}
+%>
+<% if (jsFile) { %>
+  <script type="module" src="/react/<%= jsFile %>"></script>
+<% } %>

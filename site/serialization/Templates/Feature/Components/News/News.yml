@@ -1,0 +1,99 @@
+_id: 6afe7282b5686c9bee79f9ee
+name: News
+displayName: Tech News Grid
+path: /root/templates/Feature/Components/News
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f8601
+parentPath: /root/templates/Feature/Components
+sortOrder: 100
+icon: ti ti-news
+description: Template dữ liệu cho component News
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afe791d33eda5465dd68157
+    name: News Data
+    sortOrder: 100
+    fields:
+      - id: 6afe791d33eda5465dd68158
+        name: Title
+        title: Tiêu đề tin tức
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Tin Tức & Mẹo Hay Công Nghệ
+        shared: false
+        sortOrder: 10
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68159
+        name: Subtitle
+        title: Phụ đề tin tức
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Cập nhật xu hướng và đánh giá thiết bị mới nhất
+        shared: false
+        sortOrder: 20
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd6815a
+        name: ViewAllLink
+        title: Link xem tất cả
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '#tin-tuc'
+        shared: false
+        sortOrder: 30
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions: []

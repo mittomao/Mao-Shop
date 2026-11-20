@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf7802
+name: tai-nghe-marshall-major-v
+displayName: Tai nghe Marshall Major V
+path: /root/content/home/danh-muc/am-thanh/tai-nghe-marshall-major-v
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727ee
+parentPath: /root/content/home/danh-muc/am-thanh
+sortOrder: 450
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Nghe nhạc"],"loai":"Tai nghe chụp tai","tinhnang":["Chống nước"]}'
+          Brand: Marshall
+          CategoryId: audio
+          Color: '#78350f'
+          ColorsJson: '[{"name":"Nâu","color":"#78350f"},{"name":"Tím","color":"#a78bfa"},{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"}]'
+          Description: |-
+            Tai nghe Marshall Major V là sản phẩm Marshall chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"headphones","color":"#78350f","label":"Tính năng nổi bật"},{"id":"color-Nâu","kind":"headphones","color":"#78350f","label":"Nâu"},{"id":"color-Tím","kind":"headphones","color":"#a78bfa","label":"Tím"},{"id":"color-Đen","kind":"headphones","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"headphones","color":"#22c55e","label":"Xanh lá"}]'
+          Installment0: false
+          IsNew: false
+          Kind: headphones
+          MemberDiscount: '35000'
+          MetaDescription: Mua ngay Tai nghe Marshall Major V giá chỉ 3.490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '3990000'
+          PageTitle: Tai nghe Marshall Major V chính hãng, giá tốt | MaoShop
+          Popularity: '96'
+          Price: '3490000'
+          ProductName: Tai nghe Marshall Major V
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '96'
+          Slug: tai-nghe-marshall-major-v
+          SpecsJson: '[{"label":"Loại","value":"Tai nghe chụp tai"},{"label":"Chống ồn","value":"Chống ồn chủ động (ANC)"},{"label":"Thời lượng pin","value":"Lên đến 30 giờ (kèm hộp sạc)"},{"label":"Kết nối","value":"Bluetooth 5.3"},{"label":"Chống nước","value":"IP54"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

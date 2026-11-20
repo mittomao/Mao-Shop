@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7b31
+name: loa-sony-srs-xb100-xanh
+displayName: Loa Sony SRS-XB100 Xanh
+path: /root/content/home/danh-muc/am-thanh/loa-sony-srs-xb100-xanh
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727ee
+parentPath: /root/content/home/danh-muc/am-thanh
+sortOrder: 2080
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Nghe nhạc"],"loai":"Loa Bluetooth","tinhnang":["Chống nước"]}'
+          Brand: Sony
+          CategoryId: audio
+          Color: '#7c3aed'
+          ColorsJson: '[{"name":"Tím","color":"#7c3aed"},{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Loa Sony SRS-XB100 Xanh là sản phẩm Sony chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"speaker","color":"#7c3aed","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"speaker","color":"#7c3aed","label":"Tím"},{"id":"color-Đen","kind":"speaker","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"speaker","color":"#22c55e","label":"Xanh lá"},{"id":"color-Hồng","kind":"speaker","color":"#ec4899","label":"Hồng"}]'
+          Installment0: false
+          IsNew: false
+          Kind: speaker
+          MemberDiscount: '16000'
+          MetaDescription: Mua ngay Loa Sony SRS-XB100 Xanh giá chỉ 1.570.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '1570000'
+          PageTitle: Loa Sony SRS-XB100 Xanh chính hãng, giá tốt | MaoShop
+          Popularity: '67'
+          Price: '1570000'
+          ProductName: Loa Sony SRS-XB100 Xanh
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '4.5'
+          ReviewCount: '67'
+          Slug: loa-sony-srs-xb100-xanh
+          SpecsJson: '[{"label":"Loại","value":"Loa Bluetooth"},{"label":"Chống ồn","value":"Chống ồn chủ động (ANC)"},{"label":"Thời lượng pin","value":"Lên đến 14 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3"},{"label":"Chống nước","value":"IP54"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

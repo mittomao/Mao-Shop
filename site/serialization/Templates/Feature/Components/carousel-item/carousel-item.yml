@@ -30,9 +30,17 @@ sections:
         unversioned: false
         helpText: ''
         validation: {}
-        visibility: {}
-        permissions: {}
-        layout: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
         config: {}
       - id: 6aeae6f40951c55f2b989c51
         name: description
@@ -46,9 +54,17 @@ sections:
         unversioned: false
         helpText: ''
         validation: {}
-        visibility: {}
-        permissions: {}
-        layout: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
         config: {}
       - id: 6aeae70c0951c55f2b989c5a
         name: link
@@ -62,9 +78,17 @@ sections:
         unversioned: false
         helpText: ''
         validation: {}
-        visibility: {}
-        permissions: {}
-        layout: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
         config: {}
 standardValues: {}
 sharedFields: {}

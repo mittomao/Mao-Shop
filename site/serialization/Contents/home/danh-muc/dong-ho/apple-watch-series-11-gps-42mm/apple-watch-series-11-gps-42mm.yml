@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf77d0
+name: apple-watch-series-11-gps-42mm
+displayName: Apple Watch Series 11 GPS 42mm
+path: /root/content/home/danh-muc/dong-ho/apple-watch-series-11-gps-42mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 350
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Sức khỏe"],"kichthuoc":"40 - 42mm","tinhnang":["GPS","Chống nước 5ATM"],"pin":"Dưới 2 ngày"}'
+          Brand: Apple
+          CategoryId: watch
+          Color: '#f43f5e'
+          ColorsJson: '[{"name":"Hồng","color":"#f43f5e"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Xám titan","color":"#64748b"},{"name":"Đen","color":"#1f2937"}]'
+          Description: |-
+            Apple Watch Series 11 GPS 42mm là sản phẩm Apple chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#f43f5e","label":"Tính năng nổi bật"},{"id":"color-Hồng","kind":"watch","color":"#f43f5e","label":"Hồng"},{"id":"color-Cam vũ trụ","kind":"watch","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Xám titan","kind":"watch","color":"#64748b","label":"Xám titan"},{"id":"color-Đen","kind":"watch","color":"#1f2937","label":"Đen"},{"id":"extra-0","kind":"phone","color":"#f43f5e","label":"Kết nối"}]'
+          Installment0: true
+          IsNew: true
+          Kind: watch
+          MemberDiscount: '105000'
+          MetaDescription: Mua ngay Apple Watch Series 11 GPS 42mm giá chỉ 10.490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '11990000'
+          PageTitle: Apple Watch Series 11 GPS 42mm chính hãng, giá tốt | MaoShop
+          Popularity: '86'
+          Price: '10490000'
+          ProductName: Apple Watch Series 11 GPS 42mm
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '86'
+          Slug: apple-watch-series-11-gps-42mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"42mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["new"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7a82
+name: man-hinh-asus-proart-pa24-24-inch-2k-100hz
+displayName: Màn hình ASUS ProArt PA24 24 inch 2K 100Hz
+path: /root/content/home/danh-muc/man-hinh/man-hinh-asus-proart-pa24-24-inch-2k-100hz
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e4
+parentPath: /root/content/home/danh-muc/man-hinh
+sortOrder: 1730
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Đồ họa"],"kichthuoc":"24 inch","dophangiai":"2K","tanso":"100Hz","tamnen":"IPS"}'
+          Brand: ASUS
+          CategoryId: monitor
+          Color: '#a16207'
+          ColorsJson: '[{"name":"Nâu","color":"#a16207"},{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"}]'
+          Description: |-
+            Màn hình ASUS ProArt PA24 24 inch 2K 100Hz là sản phẩm ASUS chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"monitor","color":"#a16207","label":"Tính năng nổi bật"},{"id":"color-Nâu","kind":"monitor","color":"#a16207","label":"Nâu"},{"id":"color-Đen","kind":"monitor","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"monitor","color":"#22c55e","label":"Xanh lá"}]'
+          Installment0: true
+          IsNew: false
+          Kind: monitor
+          MemberDiscount: '49000'
+          MetaDescription: Mua ngay Màn hình ASUS ProArt PA24 24 inch 2K 100Hz giá chỉ 4.890.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '5230000'
+          PageTitle: Màn hình ASUS ProArt PA24 24 inch 2K 100Hz chính hãng, giá tốt | MaoShop
+          Popularity: '56'
+          Price: '4890000'
+          ProductName: Màn hình ASUS ProArt PA24 24 inch 2K 100Hz
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '4.5'
+          ReviewCount: '56'
+          Slug: man-hinh-asus-proart-pa24-24-inch-2k-100hz
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"24 inch"},{"label":"Độ phân giải","value":"2K"},{"label":"Tấm nền","value":"IPS"},{"label":"Tần số quét","value":"100Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Không"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

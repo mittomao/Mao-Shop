@@ -1,0 +1,39 @@
+_id: 6afe97d7fbfd9197e49727fd
+name: phu-kien
+displayName: Phụ kiện
+path: /root/content/home/danh-muc/phu-kien
+template:
+  id: 6afe97d6fbfd9197e4972797
+  name: CategoryPage
+  path: ''
+parentId: 6afe7299d9277cb955c05da7
+parentPath: /root/content/home/danh-muc
+sortOrder: 90
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          BannerHighlight: Ưu đãi hấp dẫn
+          BannersJson: '[{"title":"Phụ kiện chính hãng giảm 50%","subtitle":"Anker, Ugreen, Baseus","from":"#0f766e","to":"#34d399","kind":"charger","color":"#f8fafc"},{"title":"Gaming gear","subtitle":"Chuột, bàn phím giảm đến 40%","from":"#111827","to":"#ef4444","kind":"keyboard","color":"#ef4444"}]'
+          BannerSubtitle: Chính hãng 100% - Bảo hành tận tâm - Trả góp 0%
+          BannerTitle: Phụ kiện
+          CategoryId: accessory
+          CategoryName: Phụ kiện
+          FacetsJson: '[{"key":"hang","label":"Hãng sản xuất","type":"brand"},{"key":"nhucau","label":"Loại phụ kiện","type":"attr"},{"key":"tinhnang","label":"Tính năng","type":"attr"}]'
+          FaqJson: '[{"q":"Làm sao để chọn mua phụ kiện đúng nhu cầu?","a":"Hãy xác định nhu cầu chính (học tập, làm việc, giải trí), mức ngân sách, sau đó dùng bộ lọc \"Nhu cầu sử dụng\" và \"Xem theo giá\" để thu hẹp lựa chọn. Nhân viên MaoShop luôn sẵn sàng tư vấn miễn phí."},{"q":"MaoShop có thu cũ đổi mới khi mua phụ kiện không?","a":"Có. Bạn mang máy cũ tới cửa hàng hoặc dùng công cụ \"Định giá máy chuyên sâu\" để biết giá thu, trợ giá lên đời đến 3 triệu."},{"q":"Chính sách trả góp 0% khi mua phụ kiện như thế nào?","a":"Trả góp 0% qua thẻ tín dụng kỳ hạn 3–12 tháng, hoặc qua công ty tài chính chỉ cần CCCD, duyệt hồ sơ trong 5 phút."},{"q":"Sản phẩm được bảo hành bao lâu?","a":"Sản phẩm chính hãng được bảo hành 12 tháng, 1 đổi 1 trong 30 ngày nếu có lỗi phần cứng từ nhà sản xuất."},{"q":"Bao lâu thì nhận được hàng?","a":"Nội thành Hà Nội và TP.HCM giao nhanh trong 2 giờ. Các tỉnh khác giao trong 1–3 ngày, miễn phí cho đơn từ 300.000đ."}]'
+          GroupId: accessory
+          MetaDescription: Mua Phụ kiện chính hãng giá tốt, trả góp 0%, bảo hành 12 tháng tại hệ thống MaoShop.
+          NeedsJson: '[{"label":"Củ cáp","kind":"charger","color":"#f8fafc"},{"label":"Chuột, bàn phím","kind":"keyboard","color":"#ef4444"},{"label":"Sạc dự phòng","kind":"powerbank","color":"#0f172a"},{"label":"Camera","kind":"camera","color":"#334155"}]'
+          PageTitle: Phụ kiện chính hãng, giá tốt | MaoShop
+          PricePresetsJson: '[[0,500000],[500000,1000000],[1000000,3000000],[3000000,15000000]]'
+          SeoIntro: Phụ kiện công nghệ chính hãng giúp thiết bị của bạn hoạt động hiệu quả, bền bỉ và tiện lợi hơn.
+          Slug: phu-kien
+          VouchersJson: '[{"id":"v1","title":"Voucher phụ kiện 6%","detail":"Tối đa 500K, áp dụng toàn bộ phụ kiện","discount":"6%","expires":"31/10/2026"},{"id":"v2","title":"Giảm không giới hạn","detail":"Áp dụng khi thanh toán qua VNPAY-QR","discount":"5%","expires":"31/10/2026"},{"id":"v3","title":"Sinh viên giảm thêm","detail":"Xác thực S-Student để nhận ưu đãi","discount":"300K","expires":"30/11/2026"}]'
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

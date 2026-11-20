@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf784d
+name: may-loc-khong-khi-xiaomi-smart-air-purifier-4
+displayName: Máy lọc không khí Xiaomi Smart Air Purifier 4
+path: /root/content/home/danh-muc/dien-may/may-loc-khong-khi-xiaomi-smart-air-purifier-4
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f8
+parentPath: /root/content/home/danh-muc/dien-may
+sortOrder: 600
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Máy lọc không khí"],"tinhnang":["Khử khuẩn"]}'
+          Brand: Xiaomi
+          CategoryId: appliance
+          Color: '#f1f5f9'
+          ColorsJson: '[{"name":"Trắng","color":"#f1f5f9"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Máy lọc không khí Xiaomi Smart Air Purifier 4 là sản phẩm Xiaomi chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"airpurifier","color":"#f1f5f9","label":"Tính năng nổi bật"},{"id":"color-Trắng","kind":"airpurifier","color":"#f1f5f9","label":"Trắng"},{"id":"color-Nâu","kind":"airpurifier","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"airpurifier","color":"#93c5fd","label":"Xanh dương"}]'
+          Installment0: false
+          IsNew: false
+          Kind: airpurifier
+          MemberDiscount: '27000'
+          MetaDescription: Mua ngay Máy lọc không khí Xiaomi Smart Air Purifier 4 giá chỉ 2.690.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '3490000'
+          PageTitle: Máy lọc không khí Xiaomi Smart Air Purifier 4 chính hãng, giá tốt | MaoShop
+          Popularity: '81'
+          Price: '2690000'
+          ProductName: Máy lọc không khí Xiaomi Smart Air Purifier 4
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '81'
+          Slug: may-loc-khong-khi-xiaomi-smart-air-purifier-4
+          SpecsJson: '[{"label":"Thương hiệu","value":"Xiaomi"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Máy lọc không khí
+          TagsJson: '["deal"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

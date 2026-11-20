@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf7767
+name: samsung-galaxy-z-flip7-12gb-256gb
+displayName: Samsung Galaxy Z Flip7 12GB 256GB
+path: /root/content/home/danh-muc/dien-thoai/samsung-galaxy-z-flip7-12gb-256gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727d5
+parentPath: /root/content/home/danh-muc/dien-thoai
+sortOrder: 140
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Điện thoại gập"],"ram":"12GB","bonho":"256GB","manhinh":"6.5 - 6.8 inch","tinhnang":["Sạc nhanh","NFC","Chống nước","Hỗ trợ eSIM"]}'
+          Brand: Samsung
+          CategoryId: phone
+          Color: '#db2777'
+          ColorsJson: '[{"name":"Hồng","color":"#db2777"},{"name":"Xám titan","color":"#64748b"},{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"}]'
+          Description: |-
+            Samsung Galaxy Z Flip7 12GB 256GB là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"foldable","color":"#db2777","label":"Tính năng nổi bật"},{"id":"color-Hồng","kind":"foldable","color":"#db2777","label":"Hồng"},{"id":"color-Xám titan","kind":"foldable","color":"#64748b","label":"Xám titan"},{"id":"color-Đen","kind":"foldable","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"foldable","color":"#22c55e","label":"Xanh lá"},{"id":"extra-0","kind":"phone","color":"#db2777","label":"Màn hình ngoài"},{"id":"extra-1","kind":"charger","color":"#db2777","label":"Phụ kiện"}]'
+          Installment0: true
+          IsNew: false
+          Kind: foldable
+          MemberDiscount: '230000'
+          MetaDescription: Mua ngay Samsung Galaxy Z Flip7 12GB 256GB giá chỉ 22.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '26990000'
+          PageTitle: Samsung Galaxy Z Flip7 12GB 256GB chính hãng, giá tốt | MaoShop
+          Popularity: '87'
+          Price: '22990000'
+          ProductName: Samsung Galaxy Z Flip7 12GB 256GB
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '87'
+          Slug: samsung-galaxy-z-flip7-12gb-256gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"7.6 inches (màn hình chính)"},{"label":"Công nghệ màn hình","value":"AMOLED / OLED"},{"label":"Độ phân giải màn hình","value":"2796 x 1290 pixels"},{"label":"Tính năng màn hình","value":"Tần số quét 120Hz\nĐộ sáng tối đa 3000 nits\nHDR10+\nKính cường lực"},{"label":"Camera sau","value":"Chính 50 MP, f/1.8\nGóc siêu rộng 12 MP\nTele 12 MP, zoom quang 3x"},{"label":"Camera trước","value":"12 MP, f/1.9"},{"label":"Chipset","value":"Chip hiệu năng cao thế hệ mới"},{"label":"Bộ nhớ trong","value":"256GB"},{"label":"Dung lượng RAM","value":"12GB"},{"label":"Pin","value":"5000 mAh, sạc nhanh 45W"},{"label":"Hệ điều hành","value":"Android 16"},{"label":"Hỗ trợ mạng","value":"5G"},{"label":"Thẻ SIM","value":"Nano-SIM + eSIM"},{"label":"Công nghệ NFC","value":"Có"},{"label":"Chống nước, bụi","value":"IP68"}]'
+          SubCategory: Điện thoại gập
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

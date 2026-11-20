@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7875
+name: camera-an-ninh-imou-ranger-2c-4mp
+displayName: Camera an ninh Imou Ranger 2C 4MP
+path: /root/content/home/danh-muc/phu-kien/camera-an-ninh-imou-ranger-2c-4mp
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 680
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Camera"],"tinhnang":["Không dây"]}'
+          Brand: Imou
+          CategoryId: accessory
+          Color: '#f1f5f9'
+          ColorsJson: '[{"name":"Trắng","color":"#f1f5f9"},{"name":"Xám titan","color":"#64748b"},{"name":"Đen","color":"#1f2937"}]'
+          Description: |-
+            Camera an ninh Imou Ranger 2C 4MP là sản phẩm Imou chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"camera","color":"#f1f5f9","label":"Tính năng nổi bật"},{"id":"color-Trắng","kind":"camera","color":"#f1f5f9","label":"Trắng"},{"id":"color-Xám titan","kind":"camera","color":"#64748b","label":"Xám titan"},{"id":"color-Đen","kind":"camera","color":"#1f2937","label":"Đen"}]'
+          Installment0: false
+          IsNew: true
+          Kind: camera
+          MemberDiscount: '5000'
+          MetaDescription: Mua ngay Camera an ninh Imou Ranger 2C 4MP giá chỉ 490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '690000'
+          PageTitle: Camera an ninh Imou Ranger 2C 4MP chính hãng, giá tốt | MaoShop
+          Popularity: '93'
+          Price: '490000'
+          ProductName: Camera an ninh Imou Ranger 2C 4MP
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '93'
+          Slug: camera-an-ninh-imou-ranger-2c-4mp
+          SpecsJson: '[{"label":"Thương hiệu","value":"Imou"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Camera
+          TagsJson: '["new"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

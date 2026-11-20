@@ -1,0 +1,95 @@
+<%
+  const categoryId = field('CategoryId', 'phone');
+  const sectionTitle = field('Title', 'Điện Thoại Nổi Bật');
+
+  // Pre-configured templates based on categoryId
+  const defaultConfigs = {
+    phone: {
+      id: 'phone',
+      tabs: [
+        { value: 'phone', label: 'Điện thoại', categories: ['phone'] },
+        { value: 'tablet', label: 'Máy tính bảng', categories: ['tablet'] },
+      ],
+      banner: {
+        eyebrow: 'Mới ra mắt',
+        title: 'Nâng cấp lên iPhone 17',
+        highlight: '-3 triệu',
+        subtitle: 'Thu cũ trợ giá, trả góp 0%',
+        from: '#1f2937',
+        to: '#f97316',
+        device: { kind: 'phone', color: '#f97316' },
+      },
+      rows: 2,
+    },
+    laptop: {
+      id: 'laptop',
+      tabs: [
+        { value: 'laptop', label: 'Laptop', categories: ['laptop'] },
+        { value: 'monitor', label: 'Màn hình, PC', categories: ['monitor'] },
+      ],
+      banner: {
+        eyebrow: 'Laptop AI',
+        title: 'Giảm thêm đến',
+        highlight: '2 triệu',
+        subtitle: 'Ưu đãi riêng cho học sinh, sinh viên',
+        from: '#1e1b4b',
+        to: '#7c3aed',
+        device: { kind: 'laptop', color: '#94a3b8' },
+      },
+      rows: 2,
+    },
+    watch: {
+      id: 'watch',
+      tabs: [
+        { value: 'watch', label: 'Đồng hồ', categories: ['watch'] },
+        { value: 'audio', label: 'Âm thanh', categories: ['audio'] },
+      ],
+      banner: {
+        eyebrow: 'Đồng hồ',
+        title: 'Chỉ từ',
+        highlight: '690K',
+        subtitle: 'Đồng hồ thông minh chính hãng',
+        from: '#064e3b',
+        to: '#10b981',
+        device: { kind: 'watch', color: '#f43f5e' },
+      },
+      rows: 1,
+    },
+  };
+
+  const sectionProps = defaultConfigs[categoryId] || defaultConfigs.phone;
+  const jsonProps = JSON.stringify(sectionProps).replace(/"/g, '&quot;');
+%>
+<section class="site-category-section" data-react="CategorySection" data-props="<%= jsonProps %>">
+  <!-- Fallback Content for SEO & No-JS -->
+  <noscript>
+    <div class="container mx-auto px-4 mt-8">
+      <div class="border-b-2 border-red-600 pb-2 mb-4">
+        <h2 class="text-xl font-black text-slate-900 uppercase"><%= sectionTitle %></h2>
+      </div>
+      <p class="text-sm text-slate-600 mb-4">Xem đầy đủ các sản phẩm chính hãng với mức giá ưu đãi tại MaoShop.</p>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <div class="p-4 bg-white rounded-xl shadow-sm border border-slate-100">
+          <span class="text-xs text-red-600 font-bold">Chính hãng VNA</span>
+          <h3 class="font-bold text-sm text-slate-800 mt-1">iPhone 16 Pro Max</h3>
+          <p class="text-sm font-bold text-red-600 mt-2">31.490.000₫</p>
+        </div>
+        <div class="p-4 bg-white rounded-xl shadow-sm border border-slate-100">
+          <span class="text-xs text-red-600 font-bold">Thu cũ đổi mới</span>
+          <h3 class="font-bold text-sm text-slate-800 mt-1">Samsung Galaxy S25</h3>
+          <p class="text-sm font-bold text-red-600 mt-2">22.990.000₫</p>
+        </div>
+        <div class="p-4 bg-white rounded-xl shadow-sm border border-slate-100">
+          <span class="text-xs text-red-600 font-bold">Trả góp 0%</span>
+          <h3 class="font-bold text-sm text-slate-800 mt-1">Xiaomi 14 Ultra</h3>
+          <p class="text-sm font-bold text-red-600 mt-2">19.990.000₫</p>
+        </div>
+        <div class="p-4 bg-white rounded-xl shadow-sm border border-slate-100">
+          <span class="text-xs text-red-600 font-bold">Ưu đãi sinh viên</span>
+          <h3 class="font-bold text-sm text-slate-800 mt-1">OPPO Find X8</h3>
+          <p class="text-sm font-bold text-red-600 mt-2">16.490.000₫</p>
+        </div>
+      </div>
+    </div>
+  </noscript>
+</section>

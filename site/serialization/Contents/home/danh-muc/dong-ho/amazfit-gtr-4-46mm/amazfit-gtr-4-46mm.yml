@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7acd
+name: amazfit-gtr-4-46mm
+displayName: Amazfit GTR 4 46mm
+path: /root/content/home/danh-muc/dong-ho/amazfit-gtr-4-46mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 1880
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Thể thao"],"kichthuoc":"44 - 46mm","tinhnang":["eSIM"],"pin":"2 - 7 ngày"}'
+          Brand: Amazfit
+          CategoryId: watch
+          Color: '#94a3b8'
+          ColorsJson: '[{"name":"Tím","color":"#94a3b8"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Amazfit GTR 4 46mm là sản phẩm Amazfit chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#94a3b8","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"watch","color":"#94a3b8","label":"Tím"},{"id":"color-Nâu","kind":"watch","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"watch","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"watch","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"extra-0","kind":"phone","color":"#94a3b8","label":"Kết nối"}]'
+          Installment0: false
+          IsNew: false
+          Kind: watch
+          MemberDiscount: '22000'
+          MetaDescription: Mua ngay Amazfit GTR 4 46mm giá chỉ 2.230.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '2230000'
+          PageTitle: Amazfit GTR 4 46mm chính hãng, giá tốt | MaoShop
+          Popularity: '36'
+          Price: '2230000'
+          ProductName: Amazfit GTR 4 46mm
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '4.6'
+          ReviewCount: '36'
+          Slug: amazfit-gtr-4-46mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"46mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

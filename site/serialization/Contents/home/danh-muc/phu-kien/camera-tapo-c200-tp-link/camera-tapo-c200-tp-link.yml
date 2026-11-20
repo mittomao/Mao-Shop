@@ -1,0 +1,52 @@
+_id: 6afea77e15e491e32ddf7ccb
+name: camera-tapo-c200-tp-link
+displayName: Camera Tapo C200 TP-Link
+path: /root/content/home/danh-muc/phu-kien/camera-tapo-c200-tp-link
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 2900
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Camera"],"tinhnang":["Không dây"]}'
+          Brand: TP-Link
+          CategoryId: accessory
+          Color: '#1f2937'
+          ColorsJson: '[{"name":"Đen","color":"#1f2937"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Tím","color":"#a78bfa"}]'
+          Description: |-
+            Camera Tapo C200 TP-Link là sản phẩm TP-Link chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"camera","color":"#1f2937","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"camera","color":"#1f2937","label":"Đen"},{"id":"color-Cam vũ trụ","kind":"camera","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Tím","kind":"camera","color":"#a78bfa","label":"Tím"}]'
+          Installment0: false
+          IsNew: false
+          Kind: camera
+          MemberDiscount: '5000'
+          MetaDescription: Mua ngay Camera Tapo C200 TP-Link giá chỉ 480.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '570000'
+          PageTitle: Camera Tapo C200 TP-Link chính hãng, giá tốt | MaoShop
+          Popularity: '26'
+          Price: '480000'
+          ProductName: Camera Tapo C200 TP-Link
+          PromoText: Thu cũ đổi mới trợ giá đến 2 triệu
+          Rating: '4.7'
+          ReviewCount: '26'
+          Slug: camera-tapo-c200-tp-link
+          SpecsJson: '[{"label":"Thương hiệu","value":"TP-Link"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Camera
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

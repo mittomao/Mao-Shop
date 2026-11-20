@@ -1,0 +1,36 @@
+<%
+  const saleProps = {
+    title: field('Title', 'Flash Sale Tựu Trường'),
+    subtitle: field('Subtitle', 'Giá sốc có hạn - Nhanh tay kẻo lỡ'),
+  };
+  const jsonProps = JSON.stringify(saleProps).replace(/"/g, '&quot;');
+%>
+<section class="site-flashsale-wrapper" data-react="FlashSale" data-props="<%= jsonProps %>">
+  <!-- Fallback Content for SEO & No-JS -->
+  <noscript>
+    <div class="container mx-auto px-4 mt-6">
+      <div class="rounded-2xl bg-gradient-to-r from-red-600 to-rose-700 p-6 text-white shadow-lg">
+        <h2 class="text-2xl font-black italic uppercase mb-2">⚡ <%= saleProps.title %></h2>
+        <p class="text-sm text-white/90 mb-4"><%= saleProps.subtitle %></p>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <div class="bg-white rounded-xl p-3 text-slate-800">
+            <h3 class="font-bold text-sm">iPhone 16 Pro Max 256GB</h3>
+            <p class="text-red-600 font-bold text-sm">31.490.000₫</p>
+          </div>
+          <div class="bg-white rounded-xl p-3 text-slate-800">
+            <h3 class="font-bold text-sm">Samsung Galaxy S25 Ultra</h3>
+            <p class="text-red-600 font-bold text-sm">29.990.000₫</p>
+          </div>
+          <div class="bg-white rounded-xl p-3 text-slate-800">
+            <h3 class="font-bold text-sm">MacBook Air M3 16GB</h3>
+            <p class="text-red-600 font-bold text-sm">26.490.000₫</p>
+          </div>
+          <div class="bg-white rounded-xl p-3 text-slate-800">
+            <h3 class="font-bold text-sm">iPad Air M2 11 inch</h3>
+            <p class="text-red-600 font-bold text-sm">15.990.000₫</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </noscript>
+</section>

@@ -1,0 +1,52 @@
+_id: 6afea77e15e491e32ddf7cb7
+name: pin-sac-du-phong-25000mah-145w-ugreen
+displayName: Pin sạc dự phòng 25000mAh 145W Ugreen
+path: /root/content/home/danh-muc/phu-kien/pin-sac-du-phong-25000mah-145w-ugreen
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 2860
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Sạc dự phòng"],"tinhnang":["Sạc nhanh"]}'
+          Brand: Ugreen
+          CategoryId: accessory
+          Color: '#475569'
+          ColorsJson: '[{"name":"Xám titan","color":"#475569"},{"name":"Vàng","color":"#f59e0b"},{"name":"Bạc","color":"#e5e7eb"}]'
+          Description: |-
+            Pin sạc dự phòng 25000mAh 145W Ugreen là sản phẩm Ugreen chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"powerbank","color":"#475569","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"powerbank","color":"#475569","label":"Xám titan"},{"id":"color-Vàng","kind":"powerbank","color":"#f59e0b","label":"Vàng"},{"id":"color-Bạc","kind":"powerbank","color":"#e5e7eb","label":"Bạc"}]'
+          Installment0: false
+          IsNew: false
+          Kind: powerbank
+          MemberDiscount: '17000'
+          MetaDescription: Mua ngay Pin sạc dự phòng 25000mAh 145W Ugreen giá chỉ 1.680.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '1680000'
+          PageTitle: Pin sạc dự phòng 25000mAh 145W Ugreen chính hãng, giá tốt | MaoShop
+          Popularity: '84'
+          Price: '1680000'
+          ProductName: Pin sạc dự phòng 25000mAh 145W Ugreen
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.5'
+          ReviewCount: '84'
+          Slug: pin-sac-du-phong-25000mah-145w-ugreen
+          SpecsJson: '[{"label":"Thương hiệu","value":"Ugreen"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Sạc dự phòng
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

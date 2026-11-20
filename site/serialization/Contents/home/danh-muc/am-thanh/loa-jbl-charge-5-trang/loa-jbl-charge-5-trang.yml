@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7b22
+name: loa-jbl-charge-5-trang
+displayName: Loa JBL Charge 5 Trắng
+path: /root/content/home/danh-muc/am-thanh/loa-jbl-charge-5-trang
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727ee
+parentPath: /root/content/home/danh-muc/am-thanh
+sortOrder: 2050
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Thể thao","Chơi game"],"loai":"Loa Bluetooth","tinhnang":["Sạc nhanh","Kết nối đa điểm"]}'
+          Brand: JBL
+          CategoryId: audio
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Vàng","color":"#f59e0b"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Loa JBL Charge 5 Trắng là sản phẩm JBL chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"speaker","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"speaker","color":"#e5e7eb","label":"Bạc"},{"id":"color-Vàng","kind":"speaker","color":"#f59e0b","label":"Vàng"},{"id":"color-Xanh dương","kind":"speaker","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"speaker","color":"#7f1d1d","label":"Đỏ Burgundy"}]'
+          Installment0: false
+          IsNew: false
+          Kind: speaker
+          MemberDiscount: '13000'
+          MetaDescription: Mua ngay Loa JBL Charge 5 Trắng giá chỉ 1.290.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '1290000'
+          PageTitle: Loa JBL Charge 5 Trắng chính hãng, giá tốt | MaoShop
+          Popularity: '71'
+          Price: '1290000'
+          ProductName: Loa JBL Charge 5 Trắng
+          PromoText: Trả góp 0% lãi suất, tối đa 12 tháng, trả trước từ 10%
+          Rating: '4.6'
+          ReviewCount: '71'
+          Slug: loa-jbl-charge-5-trang
+          SpecsJson: '[{"label":"Loại","value":"Loa Bluetooth"},{"label":"Chống ồn","value":"Chống ồn chủ động (ANC)"},{"label":"Thời lượng pin","value":"Lên đến 14 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3"},{"label":"Chống nước","value":"IP54"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

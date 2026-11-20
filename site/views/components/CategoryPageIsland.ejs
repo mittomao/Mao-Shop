@@ -1,0 +1,47 @@
+<%
+  const service = typeof catalogService !== 'undefined' ? catalogService : (typeof siteRequire !== 'undefined' ? siteRequire('./services/catalogService') : null);
+  const catSlug = field('Slug', 'dien-thoai');
+  const catData = service ? await service.getCategoryData(catSlug) : null;
+
+  const config = catData?.config || {
+    id: field('CategoryId', 'phone'),
+    slug: catSlug,
+    name: field('CategoryName', field('Title', 'Danh mục sản phẩm')),
+    title: field('PageTitle', field('Title', 'Danh mục sản phẩm')),
+    group: field('GroupId', 'mobile'),
+    banners: [{ title: field('BannerTitle', ''), subtitle: field('BannerSubtitle', '') }],
+    facets: [],
+    needs: [],
+    pricePresets: [],
+    vouchers: [],
+    faq: [],
+    seo: { intro: field('SeoIntro', '') },
+  };
+
+  const products = catData?.products || [];
+  const categoryProps = {
+    slug: catSlug,
+    config,
+    products,
+  };
+  const jsonProps = JSON.stringify(categoryProps).replace(/"/g, '&quot;');
+%>
+<div class="site-category-page" data-react="CategoryPage" data-props="<%= jsonProps %>">
+  <noscript>
+    <div class="container mx-auto px-4 py-8">
+      <h1 class="text-3xl font-black mb-4 text-slate-900"><%= config.name %></h1>
+      <p class="text-slate-600 mb-6"><%= field('BannerSubtitle', 'Sản phẩm chính hãng, bảo hành 12 tháng, trả góp 0%.') %></p>
+      <div class="prose max-w-none text-slate-700 mb-8">
+        <%- field('SeoIntro', '<p>Khám phá đầy đủ các dòng sản phẩm công nghệ mới nhất với mức giá ưu đãi hấp dẫn tại MaoShop.</p>') %>
+      </div>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+        <% products.slice(0, 12).forEach(function(prod) { %>
+          <div class="border rounded-xl p-4 bg-white shadow-sm">
+            <h3 class="font-bold text-sm mb-1"><a href="/<%= catSlug %>/<%= prod.slug %>"><%= prod.name %></a></h3>
+            <p class="text-red-600 font-bold"><%= Number(prod.price).toLocaleString('vi-VN') %> đ</p>
+          </div>
+        <% }); %>
+      </div>
+    </div>
+  </noscript>
+</div>

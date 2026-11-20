@@ -11,5 +11,5 @@ parentPath: /root/layout/Layouts
 sortOrder: 100
 icon: layout
 sharedFields:
-  viewPath: site/layouts/HomeLayout.ejs
+  viewPath: layouts/ShopLayout.ejs
 languages: []

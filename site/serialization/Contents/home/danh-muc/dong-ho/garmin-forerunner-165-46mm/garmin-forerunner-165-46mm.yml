@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7a96
+name: garmin-forerunner-165-46mm
+displayName: Garmin Forerunner 165 46mm
+path: /root/content/home/danh-muc/dong-ho/garmin-forerunner-165-46mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 1770
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Thể thao"],"kichthuoc":"44 - 46mm","tinhnang":["Chống nước 5ATM","ECG"],"pin":"Trên 7 ngày"}'
+          Brand: Garmin
+          CategoryId: watch
+          Color: '#f97316'
+          ColorsJson: '[{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Garmin Forerunner 165 46mm là sản phẩm Garmin chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#f97316","label":"Tính năng nổi bật"},{"id":"color-Cam vũ trụ","kind":"watch","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Nâu","kind":"watch","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"watch","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Hồng","kind":"watch","color":"#ec4899","label":"Hồng"},{"id":"extra-0","kind":"phone","color":"#f97316","label":"Kết nối"}]'
+          Installment0: false
+          IsNew: false
+          Kind: watch
+          MemberDiscount: '67000'
+          MetaDescription: Mua ngay Garmin Forerunner 165 46mm giá chỉ 6.710.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '7140000'
+          PageTitle: Garmin Forerunner 165 46mm chính hãng, giá tốt | MaoShop
+          Popularity: '76'
+          Price: '6710000'
+          ProductName: Garmin Forerunner 165 46mm
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '5'
+          ReviewCount: '76'
+          Slug: garmin-forerunner-165-46mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"46mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

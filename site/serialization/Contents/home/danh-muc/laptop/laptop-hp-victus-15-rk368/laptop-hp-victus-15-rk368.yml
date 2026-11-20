@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf79ab
+name: laptop-hp-victus-15-rk368
+displayName: Laptop HP Victus 15 RK368
+path: /root/content/home/danh-muc/laptop/laptop-hp-victus-15-rk368
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 1300
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"cpu":"AMD Ryzen 7","ram":"16GB","ocung":"512GB","gpu":"RTX 4050","manhinh":"15 - 16 inch","dophangiai":"2K","tinhnang":["Màn hình 144Hz","Bàn phím LED","Cảm ứng","Webcam Full HD"],"ai":"Có NPU AI"}'
+          Brand: HP
+          CategoryId: laptop
+          Color: '#7c3aed'
+          ColorsJson: '[{"name":"Tím","color":"#7c3aed"},{"name":"Đỏ Burgundy","color":"#7f1d1d"},{"name":"Vàng","color":"#f59e0b"}]'
+          Description: |-
+            Laptop HP Victus 15 RK368 là sản phẩm HP chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#7c3aed","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"laptop","color":"#7c3aed","label":"Tím"},{"id":"color-Đỏ Burgundy","kind":"laptop","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"color-Vàng","kind":"laptop","color":"#f59e0b","label":"Vàng"},{"id":"extra-0","kind":"keyboard","color":"#7c3aed","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#7c3aed","label":"Phụ kiện"}]'
+          Installment0: false
+          IsNew: false
+          Kind: laptop
+          MemberDiscount: '267000'
+          MetaDescription: Mua ngay Laptop HP Victus 15 RK368 giá chỉ 26.690.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '33550000'
+          PageTitle: Laptop HP Victus 15 RK368 chính hãng, giá tốt | MaoShop
+          Popularity: '62'
+          Price: '26690000'
+          ProductName: Laptop HP Victus 15 RK368
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '62'
+          Slug: laptop-hp-victus-15-rk368
+          SpecsJson: '[{"label":"CPU","value":"AMD Ryzen 7"},{"label":"Card đồ họa","value":"RTX 4050"},{"label":"RAM","value":"16GB"},{"label":"Ổ cứng","value":"SSD 512GB"},{"label":"Kích thước màn hình","value":"15 - 16 inch"},{"label":"Độ phân giải","value":"2K"},{"label":"Công nghệ AI","value":"Có NPU AI"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"Windows 11 Home"}]'
+          SubCategory: Gaming
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

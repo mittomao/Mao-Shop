@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7a32
+name: man-hinh-viewsonic-vx2479-27-inch-full-hd-100hz
+displayName: Màn hình ViewSonic VX2479 27 inch Full HD 100Hz
+path: /root/content/home/danh-muc/man-hinh/man-hinh-viewsonic-vx2479-27-inch-full-hd-100hz
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e4
+parentPath: /root/content/home/danh-muc/man-hinh
+sortOrder: 1570
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Văn phòng"],"kichthuoc":"27 inch","dophangiai":"Full HD","tanso":"100Hz","tamnen":"IPS"}'
+          Brand: ViewSonic
+          CategoryId: monitor
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Đỏ Burgundy","color":"#7f1d1d"},{"name":"Xám titan","color":"#64748b"}]'
+          Description: |-
+            Màn hình ViewSonic VX2479 27 inch Full HD 100Hz là sản phẩm ViewSonic chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"monitor","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"monitor","color":"#e5e7eb","label":"Bạc"},{"id":"color-Đỏ Burgundy","kind":"monitor","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"color-Xám titan","kind":"monitor","color":"#64748b","label":"Xám titan"}]'
+          Installment0: true
+          IsNew: false
+          Kind: monitor
+          MemberDiscount: '42000'
+          MetaDescription: Mua ngay Màn hình ViewSonic VX2479 27 inch Full HD 100Hz giá chỉ 4.190.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '5040000'
+          PageTitle: Màn hình ViewSonic VX2479 27 inch Full HD 100Hz chính hãng, giá tốt | MaoShop
+          Popularity: '64'
+          Price: '4190000'
+          ProductName: Màn hình ViewSonic VX2479 27 inch Full HD 100Hz
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '4.5'
+          ReviewCount: '64'
+          Slug: man-hinh-viewsonic-vx2479-27-inch-full-hd-100hz
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"27 inch"},{"label":"Độ phân giải","value":"Full HD"},{"label":"Tấm nền","value":"IPS"},{"label":"Tần số quét","value":"100Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Không"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

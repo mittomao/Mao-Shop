@@ -1,0 +1,66 @@
+<%
+  const title = field('Title', 'Ưu đãi thanh toán & đối tác');
+  const offer1 = {
+    badge: field('Offer1_Badge', 'Thẻ Tín Dụng'),
+    title: field('Offer1_Title', 'Giảm đến 800K khi mở thẻ Techcombank'),
+    desc: field('Offer1_Desc', 'Áp dụng cho đơn hàng từ 10 triệu đồng'),
+    link: field('Offer1_Link', '#offers')
+  };
+  const offer2 = {
+    badge: field('Offer2_Badge', 'Ví Điện Tử'),
+    title: field('Offer2_Title', 'Hoàn tiền 10% tối đa 300K qua VNPAY-QR'),
+    desc: field('Offer2_Desc', 'Nhập mã VNPAYMAOPHONE khi quét mã'),
+    link: field('Offer2_Link', '#offers')
+  };
+  const offer3 = {
+    badge: field('Offer3_Badge', 'Thu Cũ Đổi Mới'),
+    title: field('Offer3_Title', 'Trợ giá lên đời đến 5 triệu đồng'),
+    desc: field('Offer3_Desc', 'Thẩm định máy 15 phút, trợ giá cực khủng'),
+    link: field('Offer3_Link', '#offers')
+  };
+  const offer4 = {
+    badge: field('Offer4_Badge', 'Sinh Viên'),
+    title: field('Offer4_Title', 'Giảm thêm 5% cho học sinh - sinh viên'),
+    desc: field('Offer4_Desc', 'Áp dụng cho laptop, tablet và phụ kiện'),
+    link: field('Offer4_Link', '#offers')
+  };
+%>
+<section class="container mx-auto px-4 sm:px-6 lg:px-8 mt-10">
+  <div class="mb-4 border-b border-slate-200 pb-2">
+    <h2 class="text-xl font-bold text-slate-900"><%= title %></h2>
+  </div>
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+    <div class="rounded-xl bg-gradient-to-br from-blue-700 to-sky-500 p-5 text-white shadow-sm flex flex-col justify-between">
+      <div>
+        <span class="text-xs font-bold uppercase tracking-wider text-blue-200"><%= offer1.badge %></span>
+        <h3 class="font-bold text-lg mt-2 mb-1"><%= offer1.title %></h3>
+        <p class="text-xs text-blue-100 opacity-90"><%= offer1.desc %></p>
+      </div>
+      <a href="<%= offer1.link %>" class="text-xs font-bold underline underline-offset-4 text-white mt-4 inline-block">Xem chi tiết →</a>
+    </div>
+    <div class="rounded-xl bg-gradient-to-br from-purple-700 to-pink-500 p-5 text-white shadow-sm flex flex-col justify-between">
+      <div>
+        <span class="text-xs font-bold uppercase tracking-wider text-purple-200"><%= offer2.badge %></span>
+        <h3 class="font-bold text-lg mt-2 mb-1"><%= offer2.title %></h3>
+        <p class="text-xs text-purple-100 opacity-90"><%= offer2.desc %></p>
+      </div>
+      <a href="<%= offer2.link %>" class="text-xs font-bold underline underline-offset-4 text-white mt-4 inline-block">Xem chi tiết →</a>
+    </div>
+    <div class="rounded-xl bg-gradient-to-br from-emerald-700 to-teal-500 p-5 text-white shadow-sm flex flex-col justify-between">
+      <div>
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-200"><%= offer3.badge %></span>
+        <h3 class="font-bold text-lg mt-2 mb-1"><%= offer3.title %></h3>
+        <p class="text-xs text-emerald-100 opacity-90"><%= offer3.desc %></p>
+      </div>
+      <a href="<%= offer3.link %>" class="text-xs font-bold underline underline-offset-4 text-white mt-4 inline-block">Xem chi tiết →</a>
+    </div>
+    <div class="rounded-xl bg-gradient-to-br from-slate-900 to-slate-700 p-5 text-white shadow-sm flex flex-col justify-between">
+      <div>
+        <span class="text-xs font-bold uppercase tracking-wider text-slate-300"><%= offer4.badge %></span>
+        <h3 class="font-bold text-lg mt-2 mb-1"><%= offer4.title %></h3>
+        <p class="text-xs text-slate-300 opacity-90"><%= offer4.desc %></p>
+      </div>
+      <a href="<%= offer4.link %>" class="text-xs font-bold underline underline-offset-4 text-white mt-4 inline-block">Xem chi tiết →</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7adc
+name: apple-watch-se-3-44mm
+displayName: Apple Watch SE 3 44mm
+path: /root/content/home/danh-muc/dong-ho/apple-watch-se-3-44mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 1910
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Sức khỏe","Thời trang"],"kichthuoc":"44 - 46mm","tinhnang":["GPS","ECG","eSIM"],"pin":"Dưới 2 ngày"}'
+          Brand: Apple
+          CategoryId: watch
+          Color: '#1e3a8a'
+          ColorsJson: '[{"name":"Đen","color":"#1e3a8a"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Hồng","color":"#ec4899"},{"name":"Vàng","color":"#f59e0b"}]'
+          Description: |-
+            Apple Watch SE 3 44mm là sản phẩm Apple chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#1e3a8a","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"watch","color":"#1e3a8a","label":"Đen"},{"id":"color-Xanh lá","kind":"watch","color":"#22c55e","label":"Xanh lá"},{"id":"color-Hồng","kind":"watch","color":"#ec4899","label":"Hồng"},{"id":"color-Vàng","kind":"watch","color":"#f59e0b","label":"Vàng"},{"id":"extra-0","kind":"phone","color":"#1e3a8a","label":"Kết nối"}]'
+          Installment0: true
+          IsNew: false
+          Kind: watch
+          MemberDiscount: '73000'
+          MetaDescription: Mua ngay Apple Watch SE 3 44mm giá chỉ 7.270.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '8100000'
+          PageTitle: Apple Watch SE 3 44mm chính hãng, giá tốt | MaoShop
+          Popularity: '46'
+          Price: '7270000'
+          ProductName: Apple Watch SE 3 44mm
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.8'
+          ReviewCount: '46'
+          Slug: apple-watch-se-3-44mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"44mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

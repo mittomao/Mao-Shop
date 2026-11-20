@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7c3a
+name: may-giat-electrolux-ultimatecare-inverter-10kg
+displayName: Máy giặt Electrolux UltimateCare Inverter 10kg
+path: /root/content/home/danh-muc/dien-may/may-giat-electrolux-ultimatecare-inverter-10kg
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f8
+parentPath: /root/content/home/danh-muc/dien-may
+sortOrder: 2610
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Máy giặt"],"tinhnang":["Inverter tiết kiệm điện","Khử khuẩn","Kết nối WiFi"]}'
+          Brand: Electrolux
+          CategoryId: appliance
+          Color: '#7c3aed'
+          ColorsJson: '[{"name":"Tím","color":"#7c3aed"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Máy giặt Electrolux UltimateCare Inverter 10kg là sản phẩm Electrolux chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"washer","color":"#7c3aed","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"washer","color":"#7c3aed","label":"Tím"},{"id":"color-Xanh dương","kind":"washer","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"washer","color":"#7f1d1d","label":"Đỏ Burgundy"}]'
+          Installment0: true
+          IsNew: false
+          Kind: washer
+          MemberDiscount: '100000'
+          MetaDescription: Mua ngay Máy giặt Electrolux UltimateCare Inverter 10kg giá chỉ 9.980.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '9980000'
+          PageTitle: Máy giặt Electrolux UltimateCare Inverter 10kg chính hãng, giá tốt | MaoShop
+          Popularity: '23'
+          Price: '9980000'
+          ProductName: Máy giặt Electrolux UltimateCare Inverter 10kg
+          PromoText: Thu cũ đổi mới trợ giá đến 2 triệu
+          Rating: '4.9'
+          ReviewCount: '23'
+          Slug: may-giat-electrolux-ultimatecare-inverter-10kg
+          SpecsJson: '[{"label":"Thương hiệu","value":"Electrolux"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Máy giặt
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

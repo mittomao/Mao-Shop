@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf780c
+name: smart-tivi-samsung-qled-4k-55-inch-qa55q7f
+displayName: Smart Tivi Samsung QLED 4K 55 inch QA55Q7F
+path: /root/content/home/danh-muc/tivi/smart-tivi-samsung-qled-4k-55-inch-qa55q7f
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f3
+parentPath: /root/content/home/danh-muc/tivi
+sortOrder: 470
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Xem phim"],"kichthuoc":"55 inch","dophangiai":"4K","loai":"QLED","hedieuhanh":"Tizen"}'
+          Brand: Samsung
+          CategoryId: tv
+          Color: '#6366f1'
+          ColorsJson: '[{"name":"Tím","color":"#6366f1"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Smart Tivi Samsung QLED 4K 55 inch QA55Q7F là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tv","color":"#6366f1","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"tv","color":"#6366f1","label":"Tím"},{"id":"color-Xanh lá","kind":"tv","color":"#22c55e","label":"Xanh lá"},{"id":"color-Hồng","kind":"tv","color":"#ec4899","label":"Hồng"},{"id":"extra-0","kind":"speaker","color":"#6366f1","label":"Âm thanh"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tv
+          MemberDiscount: '120000'
+          MetaDescription: Mua ngay Smart Tivi Samsung QLED 4K 55 inch QA55Q7F giá chỉ 11.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '16990000'
+          PageTitle: Smart Tivi Samsung QLED 4K 55 inch QA55Q7F chính hãng, giá tốt | MaoShop
+          Popularity: '94'
+          Price: '11990000'
+          ProductName: Smart Tivi Samsung QLED 4K 55 inch QA55Q7F
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '94'
+          Slug: smart-tivi-samsung-qled-4k-55-inch-qa55q7f
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"55 inch"},{"label":"Độ phân giải","value":"4K"},{"label":"Tấm nền","value":"QLED"},{"label":"Tần số quét","value":"120Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Tizen"}]'
+          SubCategory: 55 inch
+          TagsJson: '["deal"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7a9b
+name: amazfit-balance-40mm
+displayName: Amazfit Balance 40mm
+path: /root/content/home/danh-muc/dong-ho/amazfit-balance-40mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 1780
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Thể thao"],"kichthuoc":"40 - 42mm","tinhnang":["GPS"],"pin":"Trên 7 ngày"}'
+          Brand: Amazfit
+          CategoryId: watch
+          Color: '#f97316'
+          ColorsJson: '[{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"},{"name":"Tím","color":"#a78bfa"}]'
+          Description: |-
+            Amazfit Balance 40mm là sản phẩm Amazfit chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#f97316","label":"Tính năng nổi bật"},{"id":"color-Cam vũ trụ","kind":"watch","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Đen","kind":"watch","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"watch","color":"#22c55e","label":"Xanh lá"},{"id":"color-Tím","kind":"watch","color":"#a78bfa","label":"Tím"},{"id":"extra-0","kind":"phone","color":"#f97316","label":"Kết nối"}]'
+          Installment0: false
+          IsNew: false
+          Kind: watch
+          MemberDiscount: '20000'
+          MetaDescription: Mua ngay Amazfit Balance 40mm giá chỉ 1.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '2270000'
+          PageTitle: Amazfit Balance 40mm chính hãng, giá tốt | MaoShop
+          Popularity: '62'
+          Price: '1990000'
+          ProductName: Amazfit Balance 40mm
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '4.5'
+          ReviewCount: '62'
+          Slug: amazfit-balance-40mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"40mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

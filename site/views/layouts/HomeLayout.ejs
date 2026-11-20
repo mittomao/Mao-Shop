@@ -3,7 +3,7 @@
 <head>
   <%- await include('../partials/head') %>
 </head>
-<body class="min-h-full flex flex-col font-sans text-slate-800 bg-white antialiased">
+<body class="min-h-full flex flex-col font-sans text-slate-800 bg-[#f4f6f8] antialiased">
   <%- await include('../partials/header') %>
 
   <% if (typeof placeholder === 'function') { %>
@@ -25,5 +25,12 @@
   <% } %>
 
   <%- await include('../partials/footer') %>
+
+  <!-- Global React Islands: Cart & Mobile Drawers, Floating Buttons & Toasts -->
+  <div data-react="CartAndMobileDrawers"></div>
+  <div data-react="FloatingButtons"></div>
+
+  <!-- React Bundle Scripts -->
+  <%- await include('../partials/react-scripts') %>
 </body>
 </html>

@@ -1,0 +1,52 @@
+_id: 6afea77e15e491e32ddf7cd0
+name: osmo-action-5-pro-dji
+displayName: Osmo Action 5 Pro DJI
+path: /root/content/home/danh-muc/phu-kien/osmo-action-5-pro-dji
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 2910
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Camera"],"tinhnang":["Chống nước"]}'
+          Brand: DJI
+          CategoryId: accessory
+          Color: '#1f2937'
+          ColorsJson: '[{"name":"Đen","color":"#1f2937"},{"name":"Đỏ Burgundy","color":"#7f1d1d"},{"name":"Xám titan","color":"#64748b"}]'
+          Description: |-
+            Osmo Action 5 Pro DJI là sản phẩm DJI chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"camera","color":"#1f2937","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"camera","color":"#1f2937","label":"Đen"},{"id":"color-Đỏ Burgundy","kind":"camera","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"color-Xám titan","kind":"camera","color":"#64748b","label":"Xám titan"}]'
+          Installment0: true
+          IsNew: false
+          Kind: camera
+          MemberDiscount: '95000'
+          MetaDescription: Mua ngay Osmo Action 5 Pro DJI giá chỉ 9.480.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '11120000'
+          PageTitle: Osmo Action 5 Pro DJI chính hãng, giá tốt | MaoShop
+          Popularity: '40'
+          Price: '9480000'
+          ProductName: Osmo Action 5 Pro DJI
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.7'
+          ReviewCount: '40'
+          Slug: osmo-action-5-pro-dji
+          SpecsJson: '[{"label":"Thương hiệu","value":"DJI"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Camera
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

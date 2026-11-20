@@ -1,0 +1,99 @@
+_id: 6afe7282b5686c9bee79f9cf
+name: FlashSale
+displayName: Flash Sale Section
+path: /root/templates/Feature/Components/FlashSale
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f8601
+parentPath: /root/templates/Feature/Components
+sortOrder: 100
+icon: ti ti-bolt
+description: Template dữ liệu cho component FlashSale
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afe791d33eda5465dd680f3
+    name: Flash Sale Data
+    sortOrder: 100
+    fields:
+      - id: 6afe791d33eda5465dd680f4
+        name: Title
+        title: Tiêu đề Flash Sale
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: GIỜ VÀNG GIÁ SỐC
+        shared: false
+        sortOrder: 10
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd680f5
+        name: Subtitle
+        title: Phụ đề
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Khung giờ săn deal giảm đến 50%
+        shared: false
+        sortOrder: 20
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd680f6
+        name: EndTime
+        title: Thời gian kết thúc
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '2026-12-31T23:59:59'
+        shared: false
+        sortOrder: 30
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions: []

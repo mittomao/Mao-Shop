@@ -1,0 +1,18 @@
+_id: 6afe7282b5686c9bee79f9ad
+name: ShopLayout
+displayName: Shop Layout (MaoShop)
+path: /root/layout/Layouts/ShopLayout
+template:
+  id: 6aea24d7fb85fae7f0a4098a
+  name: Layout
+  path: /root/templates/System/Layout
+parentId: 6aea24d8fb85fae7f0a409ad
+parentPath: /root/layout/Layouts
+sortOrder: 10
+icon: layout
+sharedFields:
+  viewPath: layouts/ShopLayout.ejs
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions: []

@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf785c
+name: ban-phim-co-gaming-e-dra-ek398x
+displayName: Bàn phím cơ gaming E-Dra EK398X
+path: /root/content/home/danh-muc/phu-kien/ban-phim-co-gaming-e-dra-ek398x
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 630
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chuột, bàn phím"],"tinhnang":["RGB"]}'
+          Brand: E-Dra
+          CategoryId: accessory
+          Color: '#ef4444'
+          ColorsJson: '[{"name":"Cam vũ trụ","color":"#ef4444"},{"name":"Hồng","color":"#ec4899"},{"name":"Vàng","color":"#f59e0b"}]'
+          Description: |-
+            Bàn phím cơ gaming E-Dra EK398X là sản phẩm E-Dra chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"keyboard","color":"#ef4444","label":"Tính năng nổi bật"},{"id":"color-Cam vũ trụ","kind":"keyboard","color":"#ef4444","label":"Cam vũ trụ"},{"id":"color-Hồng","kind":"keyboard","color":"#ec4899","label":"Hồng"},{"id":"color-Vàng","kind":"keyboard","color":"#f59e0b","label":"Vàng"}]'
+          Installment0: false
+          IsNew: false
+          Kind: keyboard
+          MemberDiscount: '7000'
+          MetaDescription: Mua ngay Bàn phím cơ gaming E-Dra EK398X giá chỉ 690.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '890000'
+          PageTitle: Bàn phím cơ gaming E-Dra EK398X chính hãng, giá tốt | MaoShop
+          Popularity: '98'
+          Price: '690000'
+          ProductName: Bàn phím cơ gaming E-Dra EK398X
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '98'
+          Slug: ban-phim-co-gaming-e-dra-ek398x
+          SpecsJson: '[{"label":"Thương hiệu","value":"E-Dra"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Chuột, bàn phím
+          TagsJson: '["deal"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

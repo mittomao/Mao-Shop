@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf7726
+name: iphone-17-pro-max-256gb
+displayName: iPhone 17 Pro Max 256GB
+path: /root/content/home/danh-muc/dien-thoai/iphone-17-pro-max-256gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727d5
+parentPath: /root/content/home/danh-muc/dien-thoai
+sortOrder: 10
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chụp ảnh đẹp"],"ram":"8GB","bonho":"256GB","manhinh":"Trên 6.8 inch","tinhnang":["Sạc nhanh","NFC","Chống nước","Hỗ trợ eSIM"]}'
+          Brand: Apple
+          CategoryId: phone
+          Color: '#f97316'
+          ColorsJson: '[{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Hồng","color":"#ec4899"},{"name":"Vàng","color":"#f59e0b"},{"name":"Bạc","color":"#e5e7eb"}]'
+          Description: |-
+            iPhone 17 Pro Max 256GB là sản phẩm Apple chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"phone","color":"#f97316","label":"Tính năng nổi bật"},{"id":"color-Cam vũ trụ","kind":"phone","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Hồng","kind":"phone","color":"#ec4899","label":"Hồng"},{"id":"color-Vàng","kind":"phone","color":"#f59e0b","label":"Vàng"},{"id":"color-Bạc","kind":"phone","color":"#e5e7eb","label":"Bạc"},{"id":"extra-0","kind":"camera","color":"#f97316","label":"Camera"},{"id":"extra-1","kind":"charger","color":"#f97316","label":"Phụ kiện"}]'
+          Installment0: true
+          IsNew: true
+          Kind: phone
+          MemberDiscount: '350000'
+          MetaDescription: Mua ngay iPhone 17 Pro Max 256GB giá chỉ 34.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '37990000'
+          PageTitle: iPhone 17 Pro Max 256GB chính hãng, giá tốt | MaoShop
+          Popularity: '100'
+          Price: '34990000'
+          ProductName: iPhone 17 Pro Max 256GB
+          PromoText: Ưu đãi thanh toán giảm đến 2 triệu qua thẻ tín dụng
+          Rating: '5'
+          ReviewCount: '100'
+          Slug: iphone-17-pro-max-256gb
+          SpecsJson: '[{"label":"Hệ điều hành khi ra mắt","value":"iOS 26"},{"label":"Chipset","value":"Apple A19 Pro"},{"label":"Bộ nhớ trong","value":"256 GB"},{"label":"Loại CPU","value":"CPU 6 lõi với 2 lõi hiệu năng và 4 lõi tiết kiệm điện"},{"label":"GPU","value":"GPU 6 lõi"},{"label":"Kích thước màn hình","value":"6.9 inches"},{"label":"Công nghệ màn hình","value":"Super Retina XDR"},{"label":"Độ phân giải màn hình","value":"2868 x 1320 pixels"},{"label":"Tính năng màn hình","value":"Tần số quét 120 Hz\nĐộ sáng tối đa 3000 nits ngoài trời\nDynamic Island\nMàn hình Luôn Bật\nProMotion\nTrue Tone\nHaptic Touch"},{"label":"Camera sau","value":"48 MP Fusion Main, f/1.78\n48 MP Ultra Wide, f/2.2\n48 MP Telephoto, f/2.8\nZoom quang học 8x"},{"label":"Camera trước","value":"18 MP Center Stage, f/1.9\nTự động lấy nét theo pha"},{"label":"Pin","value":"Pin lithium-ion tích hợp"},{"label":"Hỗ trợ mạng","value":"5G"},{"label":"Thẻ SIM","value":"Nano-SIM + eSIM"},{"label":"Công nghệ NFC","value":"Có"},{"label":"Thời điểm ra mắt","value":"09/2025"}]'
+          SubCategory: Chụp ảnh đẹp
+          TagsJson: '["hot","new"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

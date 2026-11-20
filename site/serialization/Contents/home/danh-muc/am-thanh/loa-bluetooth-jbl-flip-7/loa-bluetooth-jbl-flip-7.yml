@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf77fd
+name: loa-bluetooth-jbl-flip-7
+displayName: Loa Bluetooth JBL Flip 7
+path: /root/content/home/danh-muc/am-thanh/loa-bluetooth-jbl-flip-7
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727ee
+parentPath: /root/content/home/danh-muc/am-thanh
+sortOrder: 440
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Nghe nhạc"],"loai":"Loa Bluetooth","tinhnang":["Chống nước"]}'
+          Brand: JBL
+          CategoryId: audio
+          Color: '#2563eb'
+          ColorsJson: '[{"name":"Xám titan","color":"#2563eb"},{"name":"Hồng","color":"#ec4899"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Loa Bluetooth JBL Flip 7 là sản phẩm JBL chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"speaker","color":"#2563eb","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"speaker","color":"#2563eb","label":"Xám titan"},{"id":"color-Hồng","kind":"speaker","color":"#ec4899","label":"Hồng"},{"id":"color-Nâu","kind":"speaker","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"speaker","color":"#93c5fd","label":"Xanh dương"}]'
+          Installment0: false
+          IsNew: false
+          Kind: speaker
+          MemberDiscount: '30000'
+          MetaDescription: Mua ngay Loa Bluetooth JBL Flip 7 giá chỉ 2.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '3490000'
+          PageTitle: Loa Bluetooth JBL Flip 7 chính hãng, giá tốt | MaoShop
+          Popularity: '97'
+          Price: '2990000'
+          ProductName: Loa Bluetooth JBL Flip 7
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '97'
+          Slug: loa-bluetooth-jbl-flip-7
+          SpecsJson: '[{"label":"Loại","value":"Loa Bluetooth"},{"label":"Chống ồn","value":"Chống ồn chủ động (ANC)"},{"label":"Thời lượng pin","value":"Lên đến 14 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3"},{"label":"Chống nước","value":"IP54"}]'
+          SubCategory: ''
+          TagsJson: '["deal"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

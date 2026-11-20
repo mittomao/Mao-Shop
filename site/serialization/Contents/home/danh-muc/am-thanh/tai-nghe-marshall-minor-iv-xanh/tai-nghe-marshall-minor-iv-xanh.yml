@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7b18
+name: tai-nghe-marshall-minor-iv-xanh
+displayName: Tai nghe Marshall Minor IV Xanh
+path: /root/content/home/danh-muc/am-thanh/tai-nghe-marshall-minor-iv-xanh
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727ee
+parentPath: /root/content/home/danh-muc/am-thanh
+sortOrder: 2030
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chơi game"],"loai":"Tai nghe không dây","tinhnang":["Kết nối đa điểm"]}'
+          Brand: Marshall
+          CategoryId: audio
+          Color: '#1e3a8a'
+          ColorsJson: '[{"name":"Đen","color":"#1e3a8a"},{"name":"Tím","color":"#a78bfa"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh lá","color":"#22c55e"}]'
+          Description: |-
+            Tai nghe Marshall Minor IV Xanh là sản phẩm Marshall chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"earbuds","color":"#1e3a8a","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"earbuds","color":"#1e3a8a","label":"Đen"},{"id":"color-Tím","kind":"earbuds","color":"#a78bfa","label":"Tím"},{"id":"color-Nâu","kind":"earbuds","color":"#78350f","label":"Nâu"},{"id":"color-Xanh lá","kind":"earbuds","color":"#22c55e","label":"Xanh lá"}]'
+          Installment0: true
+          IsNew: false
+          Kind: earbuds
+          MemberDiscount: '32000'
+          MetaDescription: Mua ngay Tai nghe Marshall Minor IV Xanh giá chỉ 3.170.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '3170000'
+          PageTitle: Tai nghe Marshall Minor IV Xanh chính hãng, giá tốt | MaoShop
+          Popularity: '11'
+          Price: '3170000'
+          ProductName: Tai nghe Marshall Minor IV Xanh
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '5'
+          ReviewCount: '11'
+          Slug: tai-nghe-marshall-minor-iv-xanh
+          SpecsJson: '[{"label":"Loại","value":"Tai nghe không dây"},{"label":"Chống ồn","value":"Chống ồn chủ động (ANC)"},{"label":"Thời lượng pin","value":"Lên đến 30 giờ (kèm hộp sạc)"},{"label":"Kết nối","value":"Bluetooth 5.3"},{"label":"Chống nước","value":"IP54"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

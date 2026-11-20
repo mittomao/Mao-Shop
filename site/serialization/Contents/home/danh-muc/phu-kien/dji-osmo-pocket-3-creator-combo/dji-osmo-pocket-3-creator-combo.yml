@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7870
+name: dji-osmo-pocket-3-creator-combo
+displayName: DJI Osmo Pocket 3 Creator Combo
+path: /root/content/home/danh-muc/phu-kien/dji-osmo-pocket-3-creator-combo
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 670
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Camera"],"tinhnang":["Không dây"]}'
+          Brand: DJI
+          CategoryId: accessory
+          Color: '#334155'
+          ColorsJson: '[{"name":"Đen","color":"#334155"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh lá","color":"#22c55e"}]'
+          Description: |-
+            DJI Osmo Pocket 3 Creator Combo là sản phẩm DJI chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"camera","color":"#334155","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"camera","color":"#334155","label":"Đen"},{"id":"color-Nâu","kind":"camera","color":"#78350f","label":"Nâu"},{"id":"color-Xanh lá","kind":"camera","color":"#22c55e","label":"Xanh lá"}]'
+          Installment0: true
+          IsNew: true
+          Kind: camera
+          MemberDiscount: '113000'
+          MetaDescription: Mua ngay DJI Osmo Pocket 3 Creator Combo giá chỉ 11.281.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '17990000'
+          PageTitle: DJI Osmo Pocket 3 Creator Combo chính hãng, giá tốt | MaoShop
+          Popularity: '94'
+          Price: '11281000'
+          ProductName: DJI Osmo Pocket 3 Creator Combo
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.9'
+          ReviewCount: '94'
+          Slug: dji-osmo-pocket-3-creator-combo
+          SpecsJson: '[{"label":"Thương hiệu","value":"DJI"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Camera
+          TagsJson: '["deal","new"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

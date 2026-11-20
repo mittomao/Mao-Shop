@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7be0
+name: google-tivi-sony-bravia-2-ii-4k-55-inch
+displayName: Google Tivi Sony Bravia 2 II 4K 55 inch
+path: /root/content/home/danh-muc/tivi/google-tivi-sony-bravia-2-ii-4k-55-inch
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f3
+parentPath: /root/content/home/danh-muc/tivi
+sortOrder: 2430
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chơi game"],"kichthuoc":"55 inch","dophangiai":"4K","loai":"LED","hedieuhanh":"Google TV"}'
+          Brand: Sony
+          CategoryId: tv
+          Color: '#22c55e'
+          ColorsJson: '[{"name":"Xanh lá","color":"#22c55e"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Tím","color":"#a78bfa"}]'
+          Description: |-
+            Google Tivi Sony Bravia 2 II 4K 55 inch là sản phẩm Sony chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"tv","color":"#22c55e","label":"Tính năng nổi bật"},{"id":"color-Xanh lá","kind":"tv","color":"#22c55e","label":"Xanh lá"},{"id":"color-Cam vũ trụ","kind":"tv","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Tím","kind":"tv","color":"#a78bfa","label":"Tím"},{"id":"extra-0","kind":"speaker","color":"#22c55e","label":"Âm thanh"}]'
+          Installment0: false
+          IsNew: false
+          Kind: tv
+          MemberDiscount: '143000'
+          MetaDescription: Mua ngay Google Tivi Sony Bravia 2 II 4K 55 inch giá chỉ 14.270.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '15880000'
+          PageTitle: Google Tivi Sony Bravia 2 II 4K 55 inch chính hãng, giá tốt | MaoShop
+          Popularity: '67'
+          Price: '14270000'
+          ProductName: Google Tivi Sony Bravia 2 II 4K 55 inch
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '67'
+          Slug: google-tivi-sony-bravia-2-ii-4k-55-inch
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"55 inch"},{"label":"Độ phân giải","value":"4K"},{"label":"Tấm nền","value":"LED"},{"label":"Tần số quét","value":"120Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Google TV"}]'
+          SubCategory: 55 inch
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

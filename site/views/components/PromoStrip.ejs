@@ -1,0 +1,22 @@
+<%
+  const title = field('Title', 'TƯNG BỪNG DEAL KHỦNG');
+  const promoText = field('PromoText', 'Trả góp sinh viên, duyệt nhanh 5 phút — hạn mức lên đến 30 triệu');
+  const buttonText = field('ButtonText', 'Mua ngay');
+  const buttonLink = field('ButtonLink', '#promo');
+%>
+<section class="container mx-auto px-4 sm:px-6 lg:px-8 mt-4">
+  <a
+    href="<%= buttonLink %>"
+    class="group relative flex aspect-[5/1] items-center overflow-hidden rounded-xl bg-gradient-to-r from-[#b5001a] via-[#d70018] to-fuchsia-600 px-4 text-white shadow-md sm:aspect-[15/1] sm:px-8"
+  >
+    <span class="absolute inset-0 bg-[linear-gradient(110deg,transparent_35%,rgba(255,255,255,0.18)_50%,transparent_65%)] bg-[length:200%_100%]"></span>
+    <p class="relative text-base font-black italic sm:text-2xl tracking-wide"><%= title %></p>
+    <span class="relative mx-4 hidden h-8 w-px bg-white/40 md:block"></span>
+    <p class="relative hidden items-center gap-2 text-sm font-semibold md:flex">
+      <span>💳</span> <%= promoText %>
+    </p>
+    <span class="relative ml-auto flex items-center gap-1 rounded-full bg-white px-3 py-1 text-xs font-bold text-[#d70018] transition-transform group-hover:translate-x-1 sm:px-4 sm:py-1.5 sm:text-sm shadow-sm">
+      <%= buttonText %> →
+    </span>
+  </a>
+</section>

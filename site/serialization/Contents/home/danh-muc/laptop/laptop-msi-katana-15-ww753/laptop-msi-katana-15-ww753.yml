@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf79c4
+name: laptop-msi-katana-15-ww753
+displayName: Laptop MSI Katana 15 WW753
+path: /root/content/home/danh-muc/laptop/laptop-msi-katana-15-ww753
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 1350
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"cpu":"AMD Ryzen 5","ram":"32GB","ocung":"256GB","gpu":"RTX 4050","manhinh":"15 - 16 inch","dophangiai":"2K","tinhnang":["Màn hình 144Hz","Bàn phím LED","Vân tay"],"ai":"Không có"}'
+          Brand: MSI
+          CategoryId: laptop
+          Color: '#f97316'
+          ColorsJson: '[{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Laptop MSI Katana 15 WW753 là sản phẩm MSI chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#f97316","label":"Tính năng nổi bật"},{"id":"color-Cam vũ trụ","kind":"laptop","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Nâu","kind":"laptop","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"laptop","color":"#93c5fd","label":"Xanh dương"},{"id":"extra-0","kind":"keyboard","color":"#f97316","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#f97316","label":"Phụ kiện"}]'
+          Installment0: false
+          IsNew: true
+          Kind: laptop
+          MemberDiscount: '245000'
+          MetaDescription: Mua ngay Laptop MSI Katana 15 WW753 giá chỉ 24.490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '24490000'
+          PageTitle: Laptop MSI Katana 15 WW753 chính hãng, giá tốt | MaoShop
+          Popularity: '56'
+          Price: '24490000'
+          ProductName: Laptop MSI Katana 15 WW753
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '56'
+          Slug: laptop-msi-katana-15-ww753
+          SpecsJson: '[{"label":"CPU","value":"AMD Ryzen 5"},{"label":"Card đồ họa","value":"RTX 4050"},{"label":"RAM","value":"32GB"},{"label":"Ổ cứng","value":"SSD 256GB"},{"label":"Kích thước màn hình","value":"15 - 16 inch"},{"label":"Độ phân giải","value":"2K"},{"label":"Công nghệ AI","value":"Không có"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"Windows 11 Home"}]'
+          SubCategory: Gaming
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7aaa
+name: xiaomi-smart-band-9-pro-44mm
+displayName: Xiaomi Smart Band 9 Pro 44mm
+path: /root/content/home/danh-muc/dong-ho/xiaomi-smart-band-9-pro-44mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 1810
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Thời trang","Sức khỏe"],"kichthuoc":"44 - 46mm","tinhnang":["ECG"],"pin":"Trên 7 ngày"}'
+          Brand: Xiaomi
+          CategoryId: watch
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Tím","color":"#a78bfa"},{"name":"Nâu","color":"#78350f"}]'
+          Description: |-
+            Xiaomi Smart Band 9 Pro 44mm là sản phẩm Xiaomi chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"watch","color":"#e5e7eb","label":"Bạc"},{"id":"color-Cam vũ trụ","kind":"watch","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Tím","kind":"watch","color":"#a78bfa","label":"Tím"},{"id":"color-Nâu","kind":"watch","color":"#78350f","label":"Nâu"},{"id":"extra-0","kind":"phone","color":"#e5e7eb","label":"Kết nối"}]'
+          Installment0: false
+          IsNew: false
+          Kind: watch
+          MemberDiscount: '13000'
+          MetaDescription: Mua ngay Xiaomi Smart Band 9 Pro 44mm giá chỉ 1.330.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '1580000'
+          PageTitle: Xiaomi Smart Band 9 Pro 44mm chính hãng, giá tốt | MaoShop
+          Popularity: '61'
+          Price: '1330000'
+          ProductName: Xiaomi Smart Band 9 Pro 44mm
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '61'
+          Slug: xiaomi-smart-band-9-pro-44mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"44mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

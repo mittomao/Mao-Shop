@@ -1,22 +1,13 @@
 {
   "sectionKey": "placeholder",
   "itemCount": 4,
-  "lastReserializedAt": "2026-11-11T08:59:42.685Z",
-  "lastReserializedBy": "admin",
+  "lastReserializedAt": "2026-11-19T03:53:27.807Z",
+  "lastReserializedBy": "cli-user",
   "stats": {
-    "created": 4,
+    "created": 0,
     "updated": 0,
-    "unchanged": 0,
+    "unchanged": 4,
     "orphansDetected": 0,
     "orphansPruned": 0
-  },
-  "lastSyncedAt": "2026-11-17T06:46:42.333Z",
-  "lastSyncedBy": "system",
-  "lastSyncStats": {
-    "mode": "overwrite",
-    "created": 4,
-    "updated": 0,
-    "skipped": 0,
-    "deleted": 0
   }
 }

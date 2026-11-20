@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf7758
+name: oppo-reno15-5g-12gb-256gb
+displayName: OPPO Reno15 5G 12GB 256GB
+path: /root/content/home/danh-muc/dien-thoai/oppo-reno15-5g-12gb-256gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727d5
+parentPath: /root/content/home/danh-muc/dien-thoai
+sortOrder: 110
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Điện thoại 5G"],"ram":"12GB","bonho":"256GB","manhinh":"6.5 - 6.8 inch","tinhnang":["Sạc nhanh","NFC"]}'
+          Brand: OPPO
+          CategoryId: phone
+          Color: '#ec4899'
+          ColorsJson: '[{"name":"Hồng","color":"#ec4899"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Xám titan","color":"#64748b"},{"name":"Đen","color":"#1f2937"}]'
+          Description: |-
+            OPPO Reno15 5G 12GB 256GB là sản phẩm OPPO chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"phone","color":"#ec4899","label":"Tính năng nổi bật"},{"id":"color-Hồng","kind":"phone","color":"#ec4899","label":"Hồng"},{"id":"color-Cam vũ trụ","kind":"phone","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Xám titan","kind":"phone","color":"#64748b","label":"Xám titan"},{"id":"color-Đen","kind":"phone","color":"#1f2937","label":"Đen"},{"id":"extra-0","kind":"camera","color":"#ec4899","label":"Camera"},{"id":"extra-1","kind":"charger","color":"#ec4899","label":"Phụ kiện"}]'
+          Installment0: true
+          IsNew: false
+          Kind: phone
+          MemberDiscount: '130000'
+          MetaDescription: Mua ngay OPPO Reno15 5G 12GB 256GB giá chỉ 12.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '14990000'
+          PageTitle: OPPO Reno15 5G 12GB 256GB chính hãng, giá tốt | MaoShop
+          Popularity: '90'
+          Price: '12990000'
+          ProductName: OPPO Reno15 5G 12GB 256GB
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.9'
+          ReviewCount: '90'
+          Slug: oppo-reno15-5g-12gb-256gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"6.5 - 6.8 inch"},{"label":"Công nghệ màn hình","value":"AMOLED / OLED"},{"label":"Độ phân giải màn hình","value":"2796 x 1290 pixels"},{"label":"Tính năng màn hình","value":"Tần số quét 120Hz\nĐộ sáng tối đa 3000 nits\nHDR10+\nKính cường lực"},{"label":"Camera sau","value":"Chính 50 MP, f/1.8\nGóc siêu rộng 12 MP\nTele 12 MP, zoom quang 3x"},{"label":"Camera trước","value":"12 MP, f/1.9"},{"label":"Chipset","value":"Chip hiệu năng cao thế hệ mới"},{"label":"Bộ nhớ trong","value":"256GB"},{"label":"Dung lượng RAM","value":"12GB"},{"label":"Pin","value":"5000 mAh, sạc nhanh 45W"},{"label":"Hệ điều hành","value":"Android 16"},{"label":"Hỗ trợ mạng","value":"5G"},{"label":"Thẻ SIM","value":"Nano-SIM + eSIM"},{"label":"Công nghệ NFC","value":"Có"},{"label":"Chống nước, bụi","value":"IP68"}]'
+          SubCategory: Điện thoại 5G
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

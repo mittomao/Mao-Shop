@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf79d3
+name: laptop-acer-nitro-v-15-op528
+displayName: Laptop Acer Nitro V 15 OP528
+path: /root/content/home/danh-muc/laptop/laptop-acer-nitro-v-15-op528
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 1380
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"cpu":"AMD Ryzen 7","ram":"16GB","ocung":"512GB","gpu":"RTX 4050","manhinh":"15 - 16 inch","dophangiai":"Full HD","tinhnang":["Màn hình 144Hz","Bàn phím LED","Webcam Full HD","Vân tay"],"ai":"Có NPU AI"}'
+          Brand: Acer
+          CategoryId: laptop
+          Color: '#a16207'
+          ColorsJson: '[{"name":"Nâu","color":"#a16207"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Laptop Acer Nitro V 15 OP528 là sản phẩm Acer chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#a16207","label":"Tính năng nổi bật"},{"id":"color-Nâu","kind":"laptop","color":"#a16207","label":"Nâu"},{"id":"color-Xanh dương","kind":"laptop","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"laptop","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"extra-0","kind":"keyboard","color":"#a16207","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#a16207","label":"Phụ kiện"}]'
+          Installment0: false
+          IsNew: false
+          Kind: laptop
+          MemberDiscount: '252000'
+          MetaDescription: Mua ngay Laptop Acer Nitro V 15 OP528 giá chỉ 25.190.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '29630000'
+          PageTitle: Laptop Acer Nitro V 15 OP528 chính hãng, giá tốt | MaoShop
+          Popularity: '63'
+          Price: '25190000'
+          ProductName: Laptop Acer Nitro V 15 OP528
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.8'
+          ReviewCount: '63'
+          Slug: laptop-acer-nitro-v-15-op528
+          SpecsJson: '[{"label":"CPU","value":"AMD Ryzen 7"},{"label":"Card đồ họa","value":"RTX 4050"},{"label":"RAM","value":"16GB"},{"label":"Ổ cứng","value":"SSD 512GB"},{"label":"Kích thước màn hình","value":"15 - 16 inch"},{"label":"Độ phân giải","value":"Full HD"},{"label":"Công nghệ AI","value":"Có NPU AI"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"Windows 11 Home"}]'
+          SubCategory: Gaming
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

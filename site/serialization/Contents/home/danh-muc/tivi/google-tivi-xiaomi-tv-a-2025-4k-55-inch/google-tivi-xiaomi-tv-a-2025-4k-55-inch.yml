@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7bd6
+name: google-tivi-xiaomi-tv-a-2025-4k-55-inch
+displayName: Google Tivi Xiaomi TV A 2025 4K 55 inch
+path: /root/content/home/danh-muc/tivi/google-tivi-xiaomi-tv-a-2025-4k-55-inch
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f3
+parentPath: /root/content/home/danh-muc/tivi
+sortOrder: 2410
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chơi game"],"kichthuoc":"55 inch","dophangiai":"4K","loai":"LED","hedieuhanh":"Google TV"}'
+          Brand: Xiaomi
+          CategoryId: tv
+          Color: '#e5e7eb'
+          ColorsJson: '[{"name":"Bạc","color":"#e5e7eb"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Google Tivi Xiaomi TV A 2025 4K 55 inch là sản phẩm Xiaomi chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"tv","color":"#e5e7eb","label":"Tính năng nổi bật"},{"id":"color-Bạc","kind":"tv","color":"#e5e7eb","label":"Bạc"},{"id":"color-Xanh dương","kind":"tv","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"tv","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"extra-0","kind":"speaker","color":"#e5e7eb","label":"Âm thanh"}]'
+          Installment0: false
+          IsNew: false
+          Kind: tv
+          MemberDiscount: '119000'
+          MetaDescription: Mua ngay Google Tivi Xiaomi TV A 2025 4K 55 inch giá chỉ 11.890.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '13050000'
+          PageTitle: Google Tivi Xiaomi TV A 2025 4K 55 inch chính hãng, giá tốt | MaoShop
+          Popularity: '44'
+          Price: '11890000'
+          ProductName: Google Tivi Xiaomi TV A 2025 4K 55 inch
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '4.9'
+          ReviewCount: '44'
+          Slug: google-tivi-xiaomi-tv-a-2025-4k-55-inch
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"55 inch"},{"label":"Độ phân giải","value":"4K"},{"label":"Tấm nền","value":"LED"},{"label":"Tần số quét","value":"120Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Google TV"}]'
+          SubCategory: 55 inch
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

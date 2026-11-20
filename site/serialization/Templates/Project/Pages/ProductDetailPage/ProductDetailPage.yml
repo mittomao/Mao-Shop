@@ -1,0 +1,666 @@
+_id: 6afe97d6fbfd9197e49727ab
+name: ProductDetailPage
+displayName: Product Detail Page Template
+path: /root/templates/Project/Pages/ProductDetailPage
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f860e
+parentPath: /root/templates/Project/Pages
+sortOrder: 120
+icon: ti ti-device-mobile
+description: Template cho trang Chi tiết sản phẩm (MaoShop)
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afea7cf729852702eaf883b
+    name: General
+    sortOrder: 100
+    fields:
+      - id: 6afea7cf729852702eaf883c
+        name: PageTitle
+        title: Tiêu đề trang (SEO)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Chi tiết sản phẩm | MaoShop
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf883d
+        name: MetaDescription
+        title: Mô tả SEO
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf883e
+        name: Slug
+        title: Mã định danh (Slug)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+  - id: 6afea7cf729852702eaf883f
+    name: ProductInfo
+    sortOrder: 200
+    fields:
+      - id: 6afea7cf729852702eaf8840
+        name: ProductName
+        title: Tên sản phẩm
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8841
+        name: Brand
+        title: Hãng sản xuất
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8842
+        name: CategoryId
+        title: Mã danh mục
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8843
+        name: Kind
+        title: Loại thiết bị (Kind)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: phone
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8844
+        name: Color
+        title: Màu sắc chủ đạo (Hex)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '#1f2937'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8845
+        name: Price
+        title: Giá bán (VND)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '0'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8846
+        name: OriginalPrice
+        title: Giá niêm yết (VND)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '0'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8847
+        name: Rating
+        title: Đánh giá (sao)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '5'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8848
+        name: ReviewCount
+        title: Số lượt đánh giá
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '0'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8849
+        name: Popularity
+        title: Điểm phổ biến (0-100)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '50'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf884a
+        name: MemberDiscount
+        title: Giảm giá hội viên (VND)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: '0'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf884b
+        name: PromoText
+        title: Khuyến mãi nổi bật
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf884c
+        name: SubCategory
+        title: Phân loại phụ
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf884d
+        name: Warranty
+        title: Chế độ bảo hành
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: 12 tháng chính hãng
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf884e
+        name: FastDelivery
+        title: Giao hàng nhanh 2h
+        type: checkbox
+        source: ''
+        required: false
+        defaultValue: true
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf884f
+        name: Installment0
+        title: Trả góp 0%
+        type: checkbox
+        source: ''
+        required: false
+        defaultValue: true
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8850
+        name: IsNew
+        title: Sản phẩm mới ra mắt
+        type: checkbox
+        source: ''
+        required: false
+        defaultValue: false
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+  - id: 6afea7cf729852702eaf8851
+    name: SpecsAndDetails
+    sortOrder: 300
+    fields:
+      - id: 6afea7cf729852702eaf8852
+        name: SpecsJson
+        title: Thông số tóm tắt (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8853
+        name: ColorsJson
+        title: Danh sách màu sắc (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8854
+        name: AttrsJson
+        title: Thuộc tính lọc Attrs (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '{}'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8855
+        name: TagsJson
+        title: Nhãn Tags (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8856
+        name: GalleryJson
+        title: Bộ ảnh sản phẩm (JSON)
+        type: multiLineText
+        source: ''
+        required: false
+        defaultValue: '[]'
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afea7cf729852702eaf8857
+        name: Description
+        title: Bài viết đánh giá chi tiết
+        type: richText
+        source: ''
+        required: false
+        defaultValue: ''
+        shared: false
+        sortOrder: 100
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields: {}
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

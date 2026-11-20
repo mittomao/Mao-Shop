@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7924
+name: galaxy-tab-a9-wifi-128gb
+displayName: Galaxy Tab A9+ WiFi 128GB
+path: /root/content/home/danh-muc/may-tinh-bang/galaxy-tab-a9-wifi-128gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727da
+parentPath: /root/content/home/danh-muc/may-tinh-bang
+sortOrder: 1030
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Làm việc"],"ram":"8GB","bonho":"128GB","manhinh":"11 inch","ketnoi":"WiFi"}'
+          Brand: Samsung
+          CategoryId: tablet
+          Color: '#475569'
+          ColorsJson: '[{"name":"Xám titan","color":"#475569"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"},{"name":"Vàng","color":"#f59e0b"}]'
+          Description: |-
+            Galaxy Tab A9+ WiFi 128GB là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tablet","color":"#475569","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"tablet","color":"#475569","label":"Xám titan"},{"id":"color-Xanh dương","kind":"tablet","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"tablet","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"color-Vàng","kind":"tablet","color":"#f59e0b","label":"Vàng"},{"id":"extra-0","kind":"keyboard","color":"#475569","label":"Bàn phím"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tablet
+          MemberDiscount: '59000'
+          MetaDescription: Mua ngay Galaxy Tab A9+ WiFi 128GB giá chỉ 5.890.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '6340000'
+          PageTitle: Galaxy Tab A9+ WiFi 128GB chính hãng, giá tốt | MaoShop
+          Popularity: '42'
+          Price: '5890000'
+          ProductName: Galaxy Tab A9+ WiFi 128GB
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.9'
+          ReviewCount: '42'
+          Slug: galaxy-tab-a9-wifi-128gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"11 inch"},{"label":"Công nghệ màn hình","value":"IPS LCD / OLED"},{"label":"Chipset","value":"Chip hiệu năng cao"},{"label":"Bộ nhớ trong","value":"128GB"},{"label":"Camera sau","value":"12 MP"},{"label":"Camera trước","value":"12 MP góc siêu rộng"},{"label":"Pin","value":"Lên đến 10 giờ sử dụng"},{"label":"Kết nối","value":"Wi-Fi 6E, Bluetooth 5.3, USB-C"},{"label":"Hệ điều hành","value":"Android 16"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

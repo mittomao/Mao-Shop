@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf7956
+name: ipad-air-m3-11-inch-wifi-256gb
+displayName: iPad Air M3 11 inch WiFi 256GB
+path: /root/content/home/danh-muc/may-tinh-bang/ipad-air-m3-11-inch-wifi-256gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d6fbfd9197e49727da
+parentPath: /root/content/home/danh-muc/may-tinh-bang
+sortOrder: 1130
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Làm việc","Học tập"],"ram":"12GB","bonho":"256GB","manhinh":"11 inch","ketnoi":"WiFi"}'
+          Brand: Apple
+          CategoryId: tablet
+          Color: '#0ea5e9'
+          ColorsJson: '[{"name":"Xám titan","color":"#0ea5e9"},{"name":"Bạc","color":"#e5e7eb"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Tím","color":"#a78bfa"}]'
+          Description: |-
+            iPad Air M3 11 inch WiFi 256GB là sản phẩm Apple chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tablet","color":"#0ea5e9","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"tablet","color":"#0ea5e9","label":"Xám titan"},{"id":"color-Bạc","kind":"tablet","color":"#e5e7eb","label":"Bạc"},{"id":"color-Cam vũ trụ","kind":"tablet","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Tím","kind":"tablet","color":"#a78bfa","label":"Tím"},{"id":"extra-0","kind":"keyboard","color":"#0ea5e9","label":"Bàn phím"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tablet
+          MemberDiscount: '212000'
+          MetaDescription: Mua ngay iPad Air M3 11 inch WiFi 256GB giá chỉ 21.230.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '26210000'
+          PageTitle: iPad Air M3 11 inch WiFi 256GB chính hãng, giá tốt | MaoShop
+          Popularity: '60'
+          Price: '21230000'
+          ProductName: iPad Air M3 11 inch WiFi 256GB
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '4.8'
+          ReviewCount: '60'
+          Slug: ipad-air-m3-11-inch-wifi-256gb
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"11 inch"},{"label":"Công nghệ màn hình","value":"IPS LCD / OLED"},{"label":"Chipset","value":"Chip hiệu năng cao"},{"label":"Bộ nhớ trong","value":"256GB"},{"label":"Camera sau","value":"12 MP"},{"label":"Camera trước","value":"12 MP góc siêu rộng"},{"label":"Pin","value":"Lên đến 10 giờ sử dụng"},{"label":"Kết nối","value":"Wi-Fi 6E, Bluetooth 5.3, USB-C"},{"label":"Hệ điều hành","value":"iPadOS 26"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

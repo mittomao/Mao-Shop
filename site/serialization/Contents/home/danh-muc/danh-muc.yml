@@ -1,0 +1,23 @@
+_id: 6afe7299d9277cb955c05da7
+name: danh-muc
+displayName: Danh mục
+path: /root/content/home/danh-muc
+template:
+  id: 6ae95cc6b1e541e051fd413e
+  name: Folder
+  path: /root/templates/common/Folder
+parentId: 6aeaf42fe620d879bafc2373
+parentPath: /root/content/home
+sortOrder: 200
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields: {}
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

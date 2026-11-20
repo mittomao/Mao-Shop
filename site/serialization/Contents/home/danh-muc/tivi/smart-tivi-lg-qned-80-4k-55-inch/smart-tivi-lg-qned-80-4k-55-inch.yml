@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7b9f
+name: smart-tivi-lg-qned-80-4k-55-inch
+displayName: Smart Tivi LG QNED 80 4K 55 inch
+path: /root/content/home/danh-muc/tivi/smart-tivi-lg-qned-80-4k-55-inch
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f3
+parentPath: /root/content/home/danh-muc/tivi
+sortOrder: 2300
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Chơi game"],"kichthuoc":"55 inch","dophangiai":"4K","loai":"Mini LED","hedieuhanh":"webOS"}'
+          Brand: LG
+          CategoryId: tv
+          Color: '#0ea5e9'
+          ColorsJson: '[{"name":"Xám titan","color":"#0ea5e9"},{"name":"Bạc","color":"#e5e7eb"},{"name":"Cam vũ trụ","color":"#f97316"}]'
+          Description: |-
+            Smart Tivi LG QNED 80 4K 55 inch là sản phẩm LG chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"tv","color":"#0ea5e9","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"tv","color":"#0ea5e9","label":"Xám titan"},{"id":"color-Bạc","kind":"tv","color":"#e5e7eb","label":"Bạc"},{"id":"color-Cam vũ trụ","kind":"tv","color":"#f97316","label":"Cam vũ trụ"},{"id":"extra-0","kind":"speaker","color":"#0ea5e9","label":"Âm thanh"}]'
+          Installment0: false
+          IsNew: false
+          Kind: tv
+          MemberDiscount: '257000'
+          MetaDescription: Mua ngay Smart Tivi LG QNED 80 4K 55 inch giá chỉ 25.690.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '25690000'
+          PageTitle: Smart Tivi LG QNED 80 4K 55 inch chính hãng, giá tốt | MaoShop
+          Popularity: '78'
+          Price: '25690000'
+          ProductName: Smart Tivi LG QNED 80 4K 55 inch
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '78'
+          Slug: smart-tivi-lg-qned-80-4k-55-inch
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"55 inch"},{"label":"Độ phân giải","value":"4K"},{"label":"Tấm nền","value":"Mini LED"},{"label":"Tần số quét","value":"120Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"webOS"}]'
+          SubCategory: 55 inch
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

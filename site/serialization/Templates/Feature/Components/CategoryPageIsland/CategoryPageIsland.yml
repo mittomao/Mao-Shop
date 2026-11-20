@@ -1,0 +1,75 @@
+_id: 6afe7282b5686c9bee79f9f4
+name: CategoryPageIsland
+displayName: Category Page Interactive Island
+path: /root/templates/Feature/Components/CategoryPageIsland
+template:
+  id: 6aeae250248055b9172f85eb
+  name: Template
+  path: /root/templates/System/Template
+parentId: 6aeae251248055b9172f8601
+parentPath: /root/templates/Feature/Components
+sortOrder: 100
+icon: ti ti-filter
+description: Template dữ liệu cho component CategoryPageIsland
+isSystem: false
+baseTemplates: []
+insertOptions: []
+sections:
+  - id: 6afe791d33eda5465dd68165
+    name: Category Page Config
+    sortOrder: 100
+    fields:
+      - id: 6afe791d33eda5465dd68166
+        name: Title
+        title: Tiêu đề trang danh mục
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: Danh Mục Sản Phẩm
+        shared: false
+        sortOrder: 10
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+      - id: 6afe791d33eda5465dd68167
+        name: Slug
+        title: Mã danh mục mặc định (phone, laptop...)
+        type: singleLineText
+        source: ''
+        required: false
+        defaultValue: phone
+        shared: false
+        sortOrder: 20
+        unversioned: false
+        helpText: ''
+        validation: {}
+        visibility:
+          dependsOn: ''
+          operator: ''
+          value: null
+        permissions:
+          hiddenRoles: []
+          readRoles: []
+          writeRoles: []
+        layout:
+          colSpan: 12
+          groupName: ''
+        config: {}
+standardValues: {}
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions: []

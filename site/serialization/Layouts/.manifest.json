@@ -1,22 +1,13 @@
 {
   "sectionKey": "layout",
-  "itemCount": 2,
-  "lastReserializedAt": "2026-11-11T08:59:33.499Z",
-  "lastReserializedBy": "admin",
+  "itemCount": 3,
+  "lastReserializedAt": "2026-11-19T04:46:42.306Z",
+  "lastReserializedBy": "system",
   "stats": {
-    "created": 2,
+    "created": 0,
     "updated": 0,
-    "unchanged": 0,
+    "unchanged": 3,
     "orphansDetected": 0,
     "orphansPruned": 0
-  },
-  "lastSyncedAt": "2026-11-17T06:46:42.292Z",
-  "lastSyncedBy": "system",
-  "lastSyncStats": {
-    "mode": "overwrite",
-    "created": 2,
-    "updated": 0,
-    "skipped": 0,
-    "deleted": 0
   }
 }

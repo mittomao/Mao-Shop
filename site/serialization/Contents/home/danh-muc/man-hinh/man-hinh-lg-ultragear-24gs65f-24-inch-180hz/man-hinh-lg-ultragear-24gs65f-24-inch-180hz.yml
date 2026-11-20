@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf77c1
+name: man-hinh-lg-ultragear-24gs65f-24-inch-180hz
+displayName: Màn hình LG UltraGear 24GS65F 24 inch 180Hz
+path: /root/content/home/danh-muc/man-hinh/man-hinh-lg-ultragear-24gs65f-24-inch-180hz
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e4
+parentPath: /root/content/home/danh-muc/man-hinh
+sortOrder: 320
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"kichthuoc":"24 inch","dophangiai":"Full HD","tanso":"180Hz","tamnen":"IPS"}'
+          Brand: LG
+          CategoryId: monitor
+          Color: '#dc2626'
+          ColorsJson: '[{"name":"Cam vũ trụ","color":"#dc2626"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Màn hình LG UltraGear 24GS65F 24 inch 180Hz là sản phẩm LG chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"monitor","color":"#dc2626","label":"Tính năng nổi bật"},{"id":"color-Cam vũ trụ","kind":"monitor","color":"#dc2626","label":"Cam vũ trụ"},{"id":"color-Nâu","kind":"monitor","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"monitor","color":"#93c5fd","label":"Xanh dương"}]'
+          Installment0: false
+          IsNew: false
+          Kind: monitor
+          MemberDiscount: '33000'
+          MetaDescription: Mua ngay Màn hình LG UltraGear 24GS65F 24 inch 180Hz giá chỉ 3.290.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '3990000'
+          PageTitle: Màn hình LG UltraGear 24GS65F 24 inch 180Hz chính hãng, giá tốt | MaoShop
+          Popularity: '89'
+          Price: '3290000'
+          ProductName: Màn hình LG UltraGear 24GS65F 24 inch 180Hz
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.9'
+          ReviewCount: '89'
+          Slug: man-hinh-lg-ultragear-24gs65f-24-inch-180hz
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"24 inch"},{"label":"Độ phân giải","value":"Full HD"},{"label":"Tấm nền","value":"IPS"},{"label":"Tần số quét","value":"180Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"Không"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

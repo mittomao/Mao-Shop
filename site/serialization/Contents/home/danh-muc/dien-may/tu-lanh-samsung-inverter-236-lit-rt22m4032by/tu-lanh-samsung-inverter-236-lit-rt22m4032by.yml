@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7c03
+name: tu-lanh-samsung-inverter-236-lit-rt22m4032by
+displayName: Tủ lạnh Samsung Inverter 236 lít RT22M4032BY
+path: /root/content/home/danh-muc/dien-may/tu-lanh-samsung-inverter-236-lit-rt22m4032by
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f8
+parentPath: /root/content/home/danh-muc/dien-may
+sortOrder: 2500
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Tủ lạnh"],"tinhnang":["Inverter tiết kiệm điện","Điều khiển qua app"]}'
+          Brand: Samsung
+          CategoryId: appliance
+          Color: '#f97316'
+          ColorsJson: '[{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Hồng","color":"#ec4899"}]'
+          Description: |-
+            Tủ lạnh Samsung Inverter 236 lít RT22M4032BY là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"fridge","color":"#f97316","label":"Tính năng nổi bật"},{"id":"color-Cam vũ trụ","kind":"fridge","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Xanh dương","kind":"fridge","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Hồng","kind":"fridge","color":"#ec4899","label":"Hồng"}]'
+          Installment0: false
+          IsNew: true
+          Kind: fridge
+          MemberDiscount: '62000'
+          MetaDescription: Mua ngay Tủ lạnh Samsung Inverter 236 lít RT22M4032BY giá chỉ 6.180.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '7080000'
+          PageTitle: Tủ lạnh Samsung Inverter 236 lít RT22M4032BY chính hãng, giá tốt | MaoShop
+          Popularity: '47'
+          Price: '6180000'
+          ProductName: Tủ lạnh Samsung Inverter 236 lít RT22M4032BY
+          PromoText: Tặng balo / phụ kiện chính hãng khi mua online
+          Rating: '5'
+          ReviewCount: '47'
+          Slug: tu-lanh-samsung-inverter-236-lit-rt22m4032by
+          SpecsJson: '[{"label":"Thương hiệu","value":"Samsung"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Tủ lạnh
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

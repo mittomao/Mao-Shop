@@ -1,0 +1,52 @@
+<%
+  const service = typeof catalogService !== 'undefined' ? catalogService : (typeof siteRequire !== 'undefined' ? siteRequire('./services/catalogService') : null);
+  const title = field('Title', 'Siêu Phẩm Công Nghệ 2026');
+  const subtitle = field('Subtitle', 'Thu cũ đổi mới trợ giá đến 5 triệu, bảo hành chính hãng 12 tháng.');
+  const promoText = field('PromoText', 'Trả góp sinh viên 0%, duyệt nhanh 5 phút — hạn mức lên đến 30 triệu');
+  const buttonText = field('ButtonText', 'Mua ngay');
+  const buttonLink = field('ButtonLink', '/dien-thoai');
+
+  const homeData = service ? await service.getHomeData({
+    title,
+    subtitle,
+    promoText,
+    buttonText,
+    buttonLink,
+  }) : {
+    heroTitle: title,
+    heroSubtitle: subtitle,
+    promoText,
+    buttonText,
+    buttonLink,
+    flashSale: [],
+    byCategory: {},
+  };
+
+  const jsonProps = JSON.stringify(homeData).replace(/"/g, '&quot;');
+%>
+<div data-react="HomePage" data-props="<%= jsonProps %>">
+  <!-- Fallback SEO & No-JS Content -->
+  <noscript>
+    <div class="container mx-auto px-4 py-8">
+      <h1 class="text-3xl font-black mb-4 text-slate-900"><%= title %></h1>
+      <p class="text-lg text-slate-600 mb-6"><%= subtitle %></p>
+      <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8">
+        <a href="/dien-thoai" class="p-4 rounded-xl border border-slate-200 bg-white font-bold text-center hover:shadow-md transition">Điện thoại</a>
+        <a href="/laptop" class="p-4 rounded-xl border border-slate-200 bg-white font-bold text-center hover:shadow-md transition">Laptop</a>
+        <a href="/may-tinh-bang" class="p-4 rounded-xl border border-slate-200 bg-white font-bold text-center hover:shadow-md transition">Máy tính bảng</a>
+        <a href="/dong-ho" class="p-4 rounded-xl border border-slate-200 bg-white font-bold text-center hover:shadow-md transition">Đồng hồ thông minh</a>
+      </div>
+      <% if (homeData.flashSale && homeData.flashSale.length > 0) { %>
+        <h2 class="text-2xl font-bold mb-4 text-red-600">⚡ Flash Sale Nổi Bật</h2>
+        <div class="grid grid-cols-2 sm:grid-cols-5 gap-3">
+          <% homeData.flashSale.slice(0, 5).forEach(function(item) { %>
+            <div class="p-3 bg-white border border-slate-200 rounded-lg">
+              <p class="font-semibold text-xs text-slate-800 line-clamp-2"><%= item.name %></p>
+              <p class="text-red-600 font-bold text-sm mt-1"><%= Number(item.price).toLocaleString('vi-VN') %> đ</p>
+            </div>
+          <% }); %>
+        </div>
+      <% } %>
+    </div>
+  </noscript>
+</div>

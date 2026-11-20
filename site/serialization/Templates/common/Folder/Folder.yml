@@ -18,7 +18,7 @@ insertOptions:
     name: Folder
     path: /root/templates/common/Folder
 sections:
-  - id: 6ae997c689e14ebb6dc365bb
+  - id: 6afbf85184089dd1badab5b8
     name: Item Info
     sortOrder: 10
     fields: []

@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf782a
+name: smart-tivi-lg-nanocell-4k-65-inch
+displayName: Smart Tivi LG NanoCell 4K 65 inch
+path: /root/content/home/danh-muc/tivi/smart-tivi-lg-nanocell-4k-65-inch
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727f3
+parentPath: /root/content/home/danh-muc/tivi
+sortOrder: 530
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Phòng khách lớn"],"kichthuoc":"65 inch","dophangiai":"4K","loai":"NanoCell","hedieuhanh":"webOS"}'
+          Brand: LG
+          CategoryId: tv
+          Color: '#8b5cf6'
+          ColorsJson: '[{"name":"Tím","color":"#8b5cf6"},{"name":"Nâu","color":"#78350f"},{"name":"Xanh dương","color":"#93c5fd"}]'
+          Description: |-
+            Smart Tivi LG NanoCell 4K 65 inch là sản phẩm LG chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"tv","color":"#8b5cf6","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"tv","color":"#8b5cf6","label":"Tím"},{"id":"color-Nâu","kind":"tv","color":"#78350f","label":"Nâu"},{"id":"color-Xanh dương","kind":"tv","color":"#93c5fd","label":"Xanh dương"},{"id":"extra-0","kind":"speaker","color":"#8b5cf6","label":"Âm thanh"}]'
+          Installment0: true
+          IsNew: false
+          Kind: tv
+          MemberDiscount: '160000'
+          MetaDescription: Mua ngay Smart Tivi LG NanoCell 4K 65 inch giá chỉ 15.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '19990000'
+          PageTitle: Smart Tivi LG NanoCell 4K 65 inch chính hãng, giá tốt | MaoShop
+          Popularity: '88'
+          Price: '15990000'
+          ProductName: Smart Tivi LG NanoCell 4K 65 inch
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '88'
+          Slug: smart-tivi-lg-nanocell-4k-65-inch
+          SpecsJson: '[{"label":"Kích thước màn hình","value":"65 inch"},{"label":"Độ phân giải","value":"4K"},{"label":"Tấm nền","value":"NanoCell"},{"label":"Tần số quét","value":"120Hz"},{"label":"HDR","value":"HDR10, HLG"},{"label":"Cổng kết nối","value":"HDMI x3, USB x2, LAN, Wi-Fi"},{"label":"Hệ điều hành","value":"webOS"}]'
+          SubCategory: 65 inch
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

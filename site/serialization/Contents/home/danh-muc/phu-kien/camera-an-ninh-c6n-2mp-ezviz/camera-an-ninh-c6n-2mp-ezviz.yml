@@ -1,0 +1,52 @@
+_id: 6afea77e15e491e32ddf7cc1
+name: camera-an-ninh-c6n-2mp-ezviz
+displayName: Camera an ninh C6N 2MP Ezviz
+path: /root/content/home/danh-muc/phu-kien/camera-an-ninh-c6n-2mp-ezviz
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727fd
+parentPath: /root/content/home/danh-muc/phu-kien
+sortOrder: 2880
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Camera"],"tinhnang":["Không dây"]}'
+          Brand: Ezviz
+          CategoryId: accessory
+          Color: '#475569'
+          ColorsJson: '[{"name":"Xám titan","color":"#475569"},{"name":"Đen","color":"#1f2937"},{"name":"Xanh lá","color":"#22c55e"}]'
+          Description: |-
+            Camera an ninh C6N 2MP Ezviz là sản phẩm Ezviz chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"camera","color":"#475569","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"camera","color":"#475569","label":"Xám titan"},{"id":"color-Đen","kind":"camera","color":"#1f2937","label":"Đen"},{"id":"color-Xanh lá","kind":"camera","color":"#22c55e","label":"Xanh lá"}]'
+          Installment0: false
+          IsNew: false
+          Kind: camera
+          MemberDiscount: '5000'
+          MetaDescription: Mua ngay Camera an ninh C6N 2MP Ezviz giá chỉ 540.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '610000'
+          PageTitle: Camera an ninh C6N 2MP Ezviz chính hãng, giá tốt | MaoShop
+          Popularity: '75'
+          Price: '540000'
+          ProductName: Camera an ninh C6N 2MP Ezviz
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.8'
+          ReviewCount: '75'
+          Slug: camera-an-ninh-c6n-2mp-ezviz
+          SpecsJson: '[{"label":"Thương hiệu","value":"Ezviz"},{"label":"Bảo hành","value":"12 tháng chính hãng"},{"label":"Xuất xứ","value":"Chính hãng, đầy đủ hóa đơn VAT"}]'
+          SubCategory: Camera
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

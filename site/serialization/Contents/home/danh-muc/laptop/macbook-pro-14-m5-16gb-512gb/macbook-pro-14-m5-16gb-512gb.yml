@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf778f
+name: macbook-pro-14-m5-16gb-512gb
+displayName: MacBook Pro 14 M5 16GB 512GB
+path: /root/content/home/danh-muc/laptop/macbook-pro-14-m5-16gb-512gb
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 220
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Đồ họa"],"cpu":"Apple M5","ram":"16GB","ocung":"512GB","gpu":"Card tích hợp","manhinh":"13 - 14 inch","dophangiai":"Full HD","tinhnang":[],"ai":"Có NPU AI"}'
+          Brand: Apple
+          CategoryId: laptop
+          Color: '#475569'
+          ColorsJson: '[{"name":"Xám titan","color":"#475569"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Tím","color":"#a78bfa"}]'
+          Description: |-
+            MacBook Pro 14 M5 16GB 512GB là sản phẩm Apple chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#475569","label":"Tính năng nổi bật"},{"id":"color-Xám titan","kind":"laptop","color":"#475569","label":"Xám titan"},{"id":"color-Cam vũ trụ","kind":"laptop","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Tím","kind":"laptop","color":"#a78bfa","label":"Tím"},{"id":"extra-0","kind":"keyboard","color":"#475569","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#475569","label":"Phụ kiện"}]'
+          Installment0: true
+          IsNew: true
+          Kind: laptop
+          MemberDiscount: '400000'
+          MetaDescription: Mua ngay MacBook Pro 14 M5 16GB 512GB giá chỉ 39.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '42990000'
+          PageTitle: MacBook Pro 14 M5 16GB 512GB chính hãng, giá tốt | MaoShop
+          Popularity: '99'
+          Price: '39990000'
+          ProductName: MacBook Pro 14 M5 16GB 512GB
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '99'
+          Slug: macbook-pro-14-m5-16gb-512gb
+          SpecsJson: '[{"label":"CPU","value":"Apple M5"},{"label":"Card đồ họa","value":"Card tích hợp"},{"label":"RAM","value":"16GB"},{"label":"Ổ cứng","value":"SSD 512GB"},{"label":"Kích thước màn hình","value":"13 - 14 inch"},{"label":"Độ phân giải","value":"Full HD"},{"label":"Công nghệ AI","value":"Có NPU AI"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"macOS"}]'
+          SubCategory: Đồ họa
+          TagsJson: '["new"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

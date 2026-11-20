@@ -1,0 +1,52 @@
+_id: 6afea77c15e491e32ddf79fb
+name: laptop-lenovo-ideapad-slim-3-dm354
+displayName: Laptop Lenovo IdeaPad Slim 3 DM354
+path: /root/content/home/danh-muc/laptop/laptop-lenovo-ideapad-slim-3-dm354
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 1460
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Mỏng nhẹ","Sinh viên"],"cpu":"Intel Core i7","ram":"16GB","ocung":"256GB","gpu":"Card tích hợp","manhinh":"13 - 14 inch","dophangiai":"2K","tinhnang":["Webcam Full HD","Vân tay"],"ai":"Không có"}'
+          Brand: Lenovo
+          CategoryId: laptop
+          Color: '#1f2937'
+          ColorsJson: '[{"name":"Đen","color":"#1f2937"},{"name":"Xanh dương","color":"#93c5fd"},{"name":"Đỏ Burgundy","color":"#7f1d1d"}]'
+          Description: |-
+            Laptop Lenovo IdeaPad Slim 3 DM354 là sản phẩm Lenovo chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: false
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#1f2937","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"laptop","color":"#1f2937","label":"Đen"},{"id":"color-Xanh dương","kind":"laptop","color":"#93c5fd","label":"Xanh dương"},{"id":"color-Đỏ Burgundy","kind":"laptop","color":"#7f1d1d","label":"Đỏ Burgundy"},{"id":"extra-0","kind":"keyboard","color":"#1f2937","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#1f2937","label":"Phụ kiện"}]'
+          Installment0: true
+          IsNew: false
+          Kind: laptop
+          MemberDiscount: '185000'
+          MetaDescription: Mua ngay Laptop Lenovo IdeaPad Slim 3 DM354 giá chỉ 18.490.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '21380000'
+          PageTitle: Laptop Lenovo IdeaPad Slim 3 DM354 chính hãng, giá tốt | MaoShop
+          Popularity: '43'
+          Price: '18490000'
+          ProductName: Laptop Lenovo IdeaPad Slim 3 DM354
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '5'
+          ReviewCount: '43'
+          Slug: laptop-lenovo-ideapad-slim-3-dm354
+          SpecsJson: '[{"label":"CPU","value":"Intel Core i7"},{"label":"Card đồ họa","value":"Card tích hợp"},{"label":"RAM","value":"16GB"},{"label":"Ổ cứng","value":"SSD 256GB"},{"label":"Kích thước màn hình","value":"13 - 14 inch"},{"label":"Độ phân giải","value":"2K"},{"label":"Công nghệ AI","value":"Không có"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"Windows 11 Home"}]'
+          SubCategory: Mỏng nhẹ
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

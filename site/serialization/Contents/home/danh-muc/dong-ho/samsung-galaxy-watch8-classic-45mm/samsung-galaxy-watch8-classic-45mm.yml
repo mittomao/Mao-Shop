@@ -1,0 +1,52 @@
+_id: 6afea77d15e491e32ddf7ad7
+name: samsung-galaxy-watch8-classic-45mm
+displayName: Samsung Galaxy Watch8 Classic 45mm
+path: /root/content/home/danh-muc/dong-ho/samsung-galaxy-watch8-classic-45mm
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727e9
+parentPath: /root/content/home/danh-muc/dong-ho
+sortOrder: 1900
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Thời trang"],"kichthuoc":"44 - 46mm","tinhnang":["Chống nước 5ATM","Nghe gọi","GPS"],"pin":"Trên 7 ngày"}'
+          Brand: Samsung
+          CategoryId: watch
+          Color: '#7c3aed'
+          ColorsJson: '[{"name":"Tím","color":"#7c3aed"},{"name":"Bạc","color":"#e5e7eb"},{"name":"Cam vũ trụ","color":"#f97316"},{"name":"Xám titan","color":"#64748b"}]'
+          Description: |-
+            Samsung Galaxy Watch8 Classic 45mm là sản phẩm Samsung chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"watch","color":"#7c3aed","label":"Tính năng nổi bật"},{"id":"color-Tím","kind":"watch","color":"#7c3aed","label":"Tím"},{"id":"color-Bạc","kind":"watch","color":"#e5e7eb","label":"Bạc"},{"id":"color-Cam vũ trụ","kind":"watch","color":"#f97316","label":"Cam vũ trụ"},{"id":"color-Xám titan","kind":"watch","color":"#64748b","label":"Xám titan"},{"id":"extra-0","kind":"phone","color":"#7c3aed","label":"Kết nối"}]'
+          Installment0: true
+          IsNew: false
+          Kind: watch
+          MemberDiscount: '71000'
+          MetaDescription: Mua ngay Samsung Galaxy Watch8 Classic 45mm giá chỉ 7.060.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '7060000'
+          PageTitle: Samsung Galaxy Watch8 Classic 45mm chính hãng, giá tốt | MaoShop
+          Popularity: '58'
+          Price: '7060000'
+          ProductName: Samsung Galaxy Watch8 Classic 45mm
+          PromoText: Thu cũ đổi mới trợ giá đến 2 triệu
+          Rating: '4.8'
+          ReviewCount: '58'
+          Slug: samsung-galaxy-watch8-classic-45mm
+          SpecsJson: '[{"label":"Kích thước mặt","value":"45mm"},{"label":"Màn hình","value":"AMOLED, luôn hiển thị"},{"label":"Tính năng sức khỏe","value":"Đo nhịp tim, SpO2, theo dõi giấc ngủ, ECG"},{"label":"Chống nước","value":"5 ATM"},{"label":"Thời lượng pin","value":"Lên đến 36 giờ"},{"label":"Kết nối","value":"Bluetooth 5.3, GPS, NFC"}]'
+          SubCategory: ''
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null

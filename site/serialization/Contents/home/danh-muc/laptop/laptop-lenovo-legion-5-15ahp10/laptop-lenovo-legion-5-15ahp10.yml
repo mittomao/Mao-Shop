@@ -1,0 +1,52 @@
+_id: 6afea77b15e491e32ddf779e
+name: laptop-lenovo-legion-5-15ahp10
+displayName: Laptop Lenovo Legion 5 15AHP10
+path: /root/content/home/danh-muc/laptop/laptop-lenovo-legion-5-15ahp10
+template:
+  id: 6afe97d6fbfd9197e49727ab
+  name: ProductDetailPage
+  path: ''
+parentId: 6afe97d7fbfd9197e49727df
+parentPath: /root/content/home/danh-muc/laptop
+sortOrder: 250
+sharedFields: {}
+languages:
+  - code: vi
+    unversionedFields: {}
+    versions:
+      - fields:
+          AttrsJson: '{"nhucau":["Gaming"],"cpu":"AMD Ryzen 7","ram":"32GB","ocung":"512GB","gpu":"RTX 5060","manhinh":"15 - 16 inch","dophangiai":"Full HD","tinhnang":["Màn hình 144Hz","Bàn phím LED"],"ai":"Có NPU AI"}'
+          Brand: Lenovo
+          CategoryId: laptop
+          Color: '#1f2937'
+          ColorsJson: '[{"name":"Đen","color":"#1f2937"},{"name":"Xám titan","color":"#64748b"},{"name":"Bạc","color":"#e5e7eb"}]'
+          Description: |-
+            Laptop Lenovo Legion 5 15AHP10 là sản phẩm Lenovo chính hãng, phân phối tại MaoShop với đầy đủ hóa đơn VAT và bảo hành 12 tháng.
+            Thiết kế hoàn thiện cao cấp, vật liệu bền bỉ và tối ưu trải nghiệm sử dụng hằng ngày. Hiệu năng mạnh mẽ đáp ứng tốt từ công việc, học tập đến giải trí.
+            Khi mua tại MaoShop, khách hàng được hỗ trợ trả góp 0%, thu cũ đổi mới trợ giá, giao nhanh 2 giờ tại nội thành và đổi mới trong 30 ngày nếu có lỗi từ nhà sản xuất.
+          FastDelivery: true
+          GalleryJson: '[{"id":"highlight","kind":"laptop","color":"#1f2937","label":"Tính năng nổi bật"},{"id":"color-Đen","kind":"laptop","color":"#1f2937","label":"Đen"},{"id":"color-Xám titan","kind":"laptop","color":"#64748b","label":"Xám titan"},{"id":"color-Bạc","kind":"laptop","color":"#e5e7eb","label":"Bạc"},{"id":"extra-0","kind":"keyboard","color":"#1f2937","label":"Bàn phím"},{"id":"extra-1","kind":"mouse","color":"#1f2937","label":"Phụ kiện"}]'
+          Installment0: true
+          IsNew: false
+          Kind: laptop
+          MemberDiscount: '390000'
+          MetaDescription: Mua ngay Laptop Lenovo Legion 5 15AHP10 giá chỉ 38.990.000 đ tại MaoShop. Trả góp 0%, bảo hành 12 tháng.
+          OriginalPrice: '42990000'
+          PageTitle: Laptop Lenovo Legion 5 15AHP10 chính hãng, giá tốt | MaoShop
+          Popularity: '96'
+          Price: '38990000'
+          ProductName: Laptop Lenovo Legion 5 15AHP10
+          PromoText: Ưu đãi thanh toán giảm thêm đến 2 triệu đồng
+          Rating: '4.9'
+          ReviewCount: '96'
+          Slug: laptop-lenovo-legion-5-15ahp10
+          SpecsJson: '[{"label":"CPU","value":"AMD Ryzen 7"},{"label":"Card đồ họa","value":"RTX 5060"},{"label":"RAM","value":"32GB"},{"label":"Ổ cứng","value":"SSD 512GB"},{"label":"Kích thước màn hình","value":"15 - 16 inch"},{"label":"Độ phân giải","value":"Full HD"},{"label":"Công nghệ AI","value":"Có NPU AI"},{"label":"Cổng kết nối","value":"USB-C, USB-A, HDMI, jack 3.5mm"},{"label":"Pin","value":"70 Wh"},{"label":"Trọng lượng","value":"1.8 kg"},{"label":"Hệ điều hành","value":"Windows 11 Home"}]'
+          SubCategory: Gaming
+          TagsJson: '["hot"]'
+          Warranty: 12 tháng chính hãng
+        neverPublish: false
+        note: ''
+        validFrom: null
+        validTo: null
+        version: 1
+        workflowState: null
